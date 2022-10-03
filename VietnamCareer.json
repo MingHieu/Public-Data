@@ -1,0 +1,274 @@
+[
+    {
+        "id": "1",
+        "name": "Tất cả ngành nghề"
+    },
+    {
+        "id": "2",
+        "name": "Kinh doanh / Bán hàng"
+    },
+    {
+        "id": "3",
+        "name": "Biên / Phiên dịch"
+    },
+    {
+        "id": "4",
+        "name": "Báo chí / Truyền hình"
+    },
+    {
+        "id": "5",
+        "name": "Bưu chính - Viễn thông"
+    },
+    {
+        "id": "6",
+        "name": "Bảo hiểm"
+    },
+    {
+        "id": "7",
+        "name": "Bất động sản"
+    },
+    {
+        "id": "8",
+        "name": "Chứng khoán / Vàng / Ngoại tệ"
+    },
+    {
+        "id": "9",
+        "name": "Công nghệ cao"
+    },
+    {
+        "id": "10",
+        "name": "Cơ khí / Chế tạo / Tự động hóa"
+    },
+    {
+        "id": "11",
+        "name": "Du lịch"
+    },
+    {
+        "id": "12",
+        "name": "Dầu khí/Hóa chất"
+    },
+    {
+        "id": "13",
+        "name": "Dệt may / Da giày"
+    },
+    {
+        "id": "14",
+        "name": "Dịch vụ khách hàng"
+    },
+    {
+        "id": "15",
+        "name": "Điện tử viễn thông"
+    },
+    {
+        "id": "16",
+        "name": "Điện / Điện tử / Điện lạnh"
+    },
+    {
+        "id": "17",
+        "name": "Giáo dục / Đào tạo"
+    },
+    {
+        "id": "18",
+        "name": "Hoá học / Sinh học"
+    },
+    {
+        "id": "19",
+        "name": "Hoạch định/Dự án"
+    },
+    {
+        "id": "20",
+        "name": "Hàng gia dụng"
+    },
+    {
+        "id": "21",
+        "name": "Hàng hải"
+    },
+    {
+        "id": "22",
+        "name": "Hàng không"
+    },
+    {
+        "id": "23",
+        "name": "Hành chính / Văn phòng"
+    },
+    {
+        "id": "24",
+        "name": "In ấn / Xuất bản"
+    },
+    {
+        "id": "25",
+        "name": "IT Phần cứng / Mạng"
+    },
+    {
+        "id": "26",
+        "name": "IT phần mềm"
+    },
+    {
+        "id": "27",
+        "name": "Khách sạn / Nhà hàng"
+    },
+    {
+        "id": "28",
+        "name": "Kế toán / Kiểm toán"
+    },
+    {
+        "id": "29",
+        "name": "Marketing / Truyền thông / Quảng cáo"
+    },
+    {
+        "id": "30",
+        "name": "Môi trường / Xử lý chất thải"
+    },
+    {
+        "id": "31",
+        "name": "Mỹ phẩm / Trang sức"
+    },
+    {
+        "id": "32",
+        "name": "Mỹ thuật / Nghệ thuật / Điện ảnh"
+    },
+    {
+        "id": "33",
+        "name": "Ngân hàng / Tài chính"
+    },
+    {
+        "id": "34",
+        "name": "Nhân sự"
+    },
+    {
+        "id": "35",
+        "name": "Nông / Lâm / Ngư nghiệp"
+    },
+    {
+        "id": "36",
+        "name": "Luật/Pháp lý"
+    },
+    {
+        "id": "37",
+        "name": "Quản lý chất lượng (QA/QC)"
+    },
+    {
+        "id": "38",
+        "name": "Quản lý điều hành"
+    },
+    {
+        "id": "39",
+        "name": "Thiết kế đồ họa"
+    },
+    {
+        "id": "40",
+        "name": "Thời trang"
+    },
+    {
+        "id": "41",
+        "name": "Thực phẩm / Đồ uống"
+    },
+    {
+        "id": "42",
+        "name": "Tư vấn"
+    },
+    {
+        "id": "43",
+        "name": "Tổ chức sự kiện / Quà tặng"
+    },
+    {
+        "id": "44",
+        "name": "Vận tải / Kho vận"
+    },
+    {
+        "id": "45",
+        "name": "Logistics"
+    },
+    {
+        "id": "46",
+        "name": "Xuất nhập khẩu"
+    },
+    {
+        "id": "47",
+        "name": "Xây dựng"
+    },
+    {
+        "id": "48",
+        "name": "Y tế / Dược"
+    },
+    {
+        "id": "49",
+        "name": "Công nghệ Ô tô"
+    },
+    {
+        "id": "50",
+        "name": "An toàn lao động"
+    },
+    {
+        "id": "51",
+        "name": "Bán hàng kỹ thuật"
+    },
+    {
+        "id": "52",
+        "name": "Bán lẻ / bán sỉ"
+    },
+    {
+        "id": "53",
+        "name": "Bảo trì / Sữa chữa"
+    },
+    {
+        "id": "54",
+        "name": "Dược phẩm / Công nghệ sinh học"
+    },
+    {
+        "id": "55",
+        "name": "Địa chất / Khoáng sản"
+    },
+    {
+        "id": "56",
+        "name": "Hàng cao cấp"
+    },
+    {
+        "id": "57",
+        "name": "Hàng tiêu dùng"
+    },
+    {
+        "id": "58",
+        "name": "Kiến trúc"
+    },
+    {
+        "id": "59",
+        "name": "Phi chính phủ / Phi lợi nhuận"
+    },
+    {
+        "id": "60",
+        "name": "Sản phẩm công nghiệp"
+    },
+    {
+        "id": "61",
+        "name": "Sản xuất"
+    },
+    {
+        "id": "62",
+        "name": "Tài chính / Đầu tư"
+    },
+    {
+        "id": "63",
+        "name": "Thiết kế nội thất"
+    },
+    {
+        "id": "64",
+        "name": "Thư ký / Trợ lý"
+    },
+    {
+        "id": "65",
+        "name": "Spa / Làm đẹp"
+    },
+    {
+        "id": "66",
+        "name": "Công nghệ thông tin"
+    },
+    {
+        "id": "67",
+        "name": "NGO / Phi chính phủ / Phi lợi nhuận"
+    },
+    {
+        "id": "68",
+        "name": "Ngành nghề khác"
+    }
+]
