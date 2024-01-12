@@ -1,0 +1,5432 @@
+[
+    {
+        "id": "216",
+        "code": "3810",
+        "name": "THÀNH PHỐ ĐIỆN BIÊN PHỦ",
+        "province_code": "DBN"
+    },
+    {
+        "id": "123",
+        "code": "2638",
+        "name": "HUYỆN CHỢ MỚI",
+        "province_code": "BKN"
+    },
+    {
+        "id": "87",
+        "code": "2310",
+        "name": "THÀNH PHỐ BẮC GIANG",
+        "province_code": "BGG"
+    },
+    {
+        "id": "149",
+        "code": "2935",
+        "name": "THI XÃ PHÚ THỌ",
+        "province_code": "PHO"
+    },
+    {
+        "id": "153",
+        "code": "2956",
+        "name": "HUYỆN THANH BA",
+        "province_code": "PHO"
+    },
+    {
+        "id": "496",
+        "code": "7460",
+        "name": "QUẬN 6",
+        "province_code": "HCM"
+    },
+    {
+        "id": "657",
+        "code": "9517",
+        "name": "HUYỆN LONG PHÚ",
+        "province_code": "STG"
+    },
+    {
+        "id": "497",
+        "code": "7480",
+        "name": "QUẬN 5",
+        "province_code": "HCM"
+    },
+    {
+        "id": "597",
+        "code": "8830",
+        "name": "THỊ XÃ CHÂU ĐỐC",
+        "province_code": "AGG"
+    },
+    {
+        "id": "146",
+        "code": "2910",
+        "name": "THÀNH PHỐ VIỆT TRÌ",
+        "province_code": "PHO"
+    },
+    {
+        "id": "595",
+        "code": "8825",
+        "name": "HUYỆN PHÚ TÂN",
+        "province_code": "AGG"
+    },
+    {
+        "id": "31",
+        "code": "1616",
+        "name": "HUYỆN PHÙ CỪ",
+        "province_code": "HYN"
+    },
+    {
+        "id": "37",
+        "code": "1635",
+        "name": "HUYỆN VĂN LÂM",
+        "province_code": "HYN"
+    },
+    {
+        "id": "317",
+        "code": "4866",
+        "name": "HUYỆN VŨ QUANG",
+        "province_code": "HTH"
+    },
+    {
+        "id": "152",
+        "code": "2949",
+        "name": "HUYỆN ĐOAN HÙNG",
+        "province_code": "PHO"
+    },
+    {
+        "id": "136",
+        "code": "2771",
+        "name": "HUYỆN THẠCH AN",
+        "province_code": "CBG"
+    },
+    {
+        "id": "151",
+        "code": "2945",
+        "name": "HUYỆN THANH THỦY",
+        "province_code": "PHO"
+    },
+    {
+        "id": "584",
+        "code": "8719",
+        "name": "HUYỆN TÂN HỒNG",
+        "province_code": "DTP"
+    },
+    {
+        "id": "127",
+        "code": "2722",
+        "name": "HUYỆN HẠ LANG",
+        "province_code": "CBG"
+    },
+    {
+        "id": "233",
+        "code": "4023",
+        "name": "HUYỆN DUY TIÊN",
+        "province_code": "HNM"
+    },
+    {
+        "id": "51",
+        "code": "1810",
+        "name": "QUẬN HỒNG BÀNG",
+        "province_code": "HPG"
+    },
+    {
+        "id": "415",
+        "code": "6042",
+        "name": "HUYỆN CHƯ PRÔNG",
+        "province_code": "GLI"
+    },
+    {
+        "id": "533",
+        "code": "8164",
+        "name": "HUYỆN TRẢNG BOM",
+        "province_code": "DNI"
+    },
+    {
+        "id": "101",
+        "code": "2439",
+        "name": "HUYỆN VĂN QUAN",
+        "province_code": "LSN"
+    },
+    {
+        "id": "560",
+        "code": "8521",
+        "name": "HUYỆN TÂN TRỤ",
+        "province_code": "LAN"
+    },
+    {
+        "id": "566",
+        "code": "8542",
+        "name": "HUYỆN ĐỨC HUỆ",
+        "province_code": "LAN"
+    },
+    {
+        "id": "619",
+        "code": "9110",
+        "name": "TP. VỊ THANH",
+        "province_code": "HUG"
+    },
+    {
+        "id": "372",
+        "code": "5662",
+        "name": "HUYỆN PHÚ NINH",
+        "province_code": "QNM"
+    },
+    {
+        "id": "614",
+        "code": "9040",
+        "name": "QUẬN Ô MÔN",
+        "province_code": "CTO"
+    },
+    {
+        "id": "302",
+        "code": "4724",
+        "name": "HUYỆN ANH SƠN",
+        "province_code": "NAN"
+    },
+    {
+        "id": "419",
+        "code": "6060",
+        "name": "HUYỆN KRÔNG PA",
+        "province_code": "GLI"
+    },
+    {
+        "id": "422",
+        "code": "6069",
+        "name": "HUYỆN PHÚ THIỆN",
+        "province_code": "GLI"
+    },
+    {
+        "id": "0",
+        "code": "1100",
+        "name": "QUẬN HOÀN KIẾM",
+        "province_code": "HNI"
+    },
+    {
+        "id": "454",
+        "code": "6510",
+        "name": "THÀNH PHỐ NHA TRANG",
+        "province_code": "KHA"
+    },
+    {
+        "id": "239",
+        "code": "4128",
+        "name": "HUYỆN THÁI THỤY",
+        "province_code": "TBH"
+    },
+    {
+        "id": "486",
+        "code": "7220",
+        "name": "QUẬN 3",
+        "province_code": "HCM"
+    },
+    {
+        "id": "471",
+        "code": "6727",
+        "name": "HUYỆN LẠC DƯƠNG",
+        "province_code": "LDG"
+    },
+    {
+        "id": "346",
+        "code": "5367",
+        "name": "HUYỆN PHÚ VANG",
+        "province_code": "HUE"
+    },
+    {
+        "id": "1842",
+        "code": "9060",
+        "name": "HUYỆN THỚI LAI",
+        "province_code": "CTO"
+    },
+    {
+        "id": "492",
+        "code": "7360",
+        "name": "QUẬN TÂN BÌNH",
+        "province_code": "HCM"
+    },
+    {
+        "id": "390",
+        "code": "5822",
+        "name": "HUYỆN ĐẮK HÀ",
+        "province_code": "KTM"
+    },
+    {
+        "id": "335",
+        "code": "5233",
+        "name": "HUYỆN TRIỆU PHONG",
+        "province_code": "QTI"
+    },
+    {
+        "id": "242",
+        "code": "4149",
+        "name": "HUYỆN VŨ THƯ",
+        "province_code": "TBH"
+    },
+    {
+        "id": "381",
+        "code": "5729",
+        "name": "HUYỆN NGHĨA HÀNH",
+        "province_code": "QNI"
+    },
+    {
+        "id": "465",
+        "code": "6629",
+        "name": "HUYỆN BÁC ÁI",
+        "province_code": "NTN"
+    },
+    {
+        "id": "632",
+        "code": "9224",
+        "name": "HUYỆN AN BIÊN",
+        "province_code": "KGG"
+    },
+    {
+        "id": "405",
+        "code": "5942",
+        "name": "HUYÊN TÂY SƠN",
+        "province_code": "BDH"
+    },
+    {
+        "id": "20",
+        "code": "1547",
+        "name": "HUYỆN BA VÌ",
+        "province_code": "HNI"
+    },
+    {
+        "id": "195",
+        "code": "3515",
+        "name": "HUYỆN KỲ SƠN",
+        "province_code": "HBH"
+    },
+    {
+        "id": "516",
+        "code": "8028",
+        "name": "HUYỆN HÀM THUẬN BẮC",
+        "province_code": "BTN"
+    },
+    {
+        "id": "181",
+        "code": "3247",
+        "name": "HUYỆN VĂN CHẤN",
+        "province_code": "YBN"
+    },
+    {
+        "id": "510",
+        "code": "7951",
+        "name": "THÀNH PHỐ BÀ RỊA",
+        "province_code": "VTU"
+    },
+    {
+        "id": "548",
+        "code": "8336",
+        "name": "HUYỆN BÙ ĐỐP",
+        "province_code": "BPC"
+    },
+    {
+        "id": "279",
+        "code": "4516",
+        "name": "HUYỆN NGỌC LẶC",
+        "province_code": "THA"
+    },
+    {
+        "id": "61",
+        "code": "1871",
+        "name": "QUẬN ĐỒ SƠN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "122",
+        "code": "2632",
+        "name": "HUYỆN CHỢ ĐỒN",
+        "province_code": "BKN"
+    },
+    {
+        "id": "592",
+        "code": "8810",
+        "name": "THÀNH PHỐ LONG XUYÊN",
+        "province_code": "AGG"
+    },
+    {
+        "id": "34",
+        "code": "1625",
+        "name": "HUYỆN KHOÁI CHÂU",
+        "province_code": "HYN"
+    },
+    {
+        "id": "133",
+        "code": "2756",
+        "name": "HUYỆN NGUYÊN BÌNH",
+        "province_code": "CBG"
+    },
+    {
+        "id": "134",
+        "code": "2762",
+        "name": "HUYỆN BẢO LẠC",
+        "province_code": "CBG"
+    },
+    {
+        "id": "407",
+        "code": "6010",
+        "name": "THÀNH PHỐ PLEIKU",
+        "province_code": "GLI"
+    },
+    {
+        "id": "587",
+        "code": "8726",
+        "name": "HUYỆN LẤP VÒ",
+        "province_code": "DTP"
+    },
+    {
+        "id": "54",
+        "code": "1836",
+        "name": "QUẬN LÊ CHÂN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "653",
+        "code": "9430",
+        "name": "HUYỆN TRÀ CÚ",
+        "province_code": "TVH"
+    },
+    {
+        "id": "115",
+        "code": "2568",
+        "name": "HUYỆN PHỔ YÊN",
+        "province_code": "TNN"
+    },
+    {
+        "id": "226",
+        "code": "3911",
+        "name": "HUYỆN TAM ĐƯỜNG",
+        "province_code": "LCU"
+    },
+    {
+        "id": "528",
+        "code": "8146",
+        "name": "HUYỆN TÂN PHÚ",
+        "province_code": "DNI"
+    },
+    {
+        "id": "190",
+        "code": "3334",
+        "name": "THÀNH PHỐ LÀO CAI",
+        "province_code": "LCI"
+    },
+    {
+        "id": "105",
+        "code": "2461",
+        "name": "HUYỆN HỮU LŨNG",
+        "province_code": "LSN"
+    },
+    {
+        "id": "563",
+        "code": "8531",
+        "name": "HUYỆN CẦN GUỘC",
+        "province_code": "LAN"
+    },
+    {
+        "id": "111",
+        "code": "2538",
+        "name": "HUYỆN PHÚ LƯƠNG ",
+        "province_code": "TNN"
+    },
+    {
+        "id": "265",
+        "code": "4422",
+        "name": "HUYỆN HOẰNG HÓA",
+        "province_code": "THA"
+    },
+    {
+        "id": "545",
+        "code": "8325",
+        "name": "HUYỆN LỘC NINH",
+        "province_code": "BPC"
+    },
+    {
+        "id": "611",
+        "code": "9010",
+        "name": "QUẬN NINH KIỀU",
+        "province_code": "CTO"
+    },
+    {
+        "id": "676",
+        "code": "9727",
+        "name": "HUYỆN CÁI NƯỚC",
+        "province_code": "CMU"
+    },
+    {
+        "id": "637",
+        "code": "9238",
+        "name": "HUYỆN GIỒNG RIỀNG",
+        "province_code": "KGG"
+    },
+    {
+        "id": "248",
+        "code": "4246",
+        "name": "HUYỆN NAM TRỰC",
+        "province_code": "NDH"
+    },
+    {
+        "id": "249",
+        "code": "4251",
+        "name": "HUYỆN TRỰC NINH",
+        "province_code": "NDH"
+    },
+    {
+        "id": "143",
+        "code": "2828",
+        "name": "HUYÊN YÊN LẠC",
+        "province_code": "VPC"
+    },
+    {
+        "id": "16",
+        "code": "1529",
+        "name": "HUYỆN HOÀI ĐỨC",
+        "province_code": "HNI"
+    },
+    {
+        "id": "646",
+        "code": "9333",
+        "name": "HUYỆN BA TRI",
+        "province_code": "BTE"
+    },
+    {
+        "id": "453",
+        "code": "6430",
+        "name": "HUYỆN TUY ĐỨC",
+        "province_code": "DKG"
+    },
+    {
+        "id": "55",
+        "code": "1848",
+        "name": "HUYỆN AN DƯƠNG",
+        "province_code": "HPG"
+    },
+    {
+        "id": "274",
+        "code": "4470",
+        "name": "HUYỆN THẠCH THÀNH",
+        "province_code": "THA"
+    },
+    {
+        "id": "62",
+        "code": "1872",
+        "name": "HUYỆN ĐẢO BẠCH LONG VĨ",
+        "province_code": "HPG"
+    },
+    {
+        "id": "624",
+        "code": "9127",
+        "name": "HUYỆN CHÂU THÀNH ",
+        "province_code": "HUG"
+    },
+    {
+        "id": "357",
+        "code": "5616",
+        "name": "HUYỆN THĂNG BÌNH",
+        "province_code": "QNM"
+    },
+    {
+        "id": "629",
+        "code": "9218",
+        "name": "HUYỆN KIÊN LƯƠNG",
+        "province_code": "KGG"
+    },
+    {
+        "id": "14",
+        "code": "1420",
+        "name": "HUYỆN MÊ LINH",
+        "province_code": "HNI"
+    },
+    {
+        "id": "306",
+        "code": "4743",
+        "name": "HUYỆN HƯNG NGUYÊN",
+        "province_code": "NAN"
+    },
+    {
+        "id": "350",
+        "code": "5542",
+        "name": "QUẬN THANH KHÊ",
+        "province_code": "DNG"
+    },
+    {
+        "id": "414",
+        "code": "6038",
+        "name": "HUYỆN ĐỨC CƠ",
+        "province_code": "GLI"
+    },
+    {
+        "id": "434",
+        "code": "6334",
+        "name": "HUYỆN EA KAR",
+        "province_code": "DLK"
+    },
+    {
+        "id": "677",
+        "code": "9730",
+        "name": "HUYỆN ĐẦM DƠI",
+        "province_code": "CMU"
+    },
+    {
+        "id": "347",
+        "code": "5371",
+        "name": "HUYỆN PHÚ LỘC",
+        "province_code": "HUE"
+    },
+    {
+        "id": "344",
+        "code": "5361",
+        "name": "THỊ XÃ HƯƠNG THỦY",
+        "province_code": "HUE"
+    },
+    {
+        "id": "394",
+        "code": "5835",
+        "name": "HUYỆN SA THẦY",
+        "province_code": "KTM"
+    },
+    {
+        "id": "376",
+        "code": "5718",
+        "name": "HUYỆN BÌNH SƠN",
+        "province_code": "QNI"
+    },
+    {
+        "id": "322",
+        "code": "5110",
+        "name": "THÀNH PHỐ ĐỒNG HỚI",
+        "province_code": "QBH"
+    },
+    {
+        "id": "353",
+        "code": "5568",
+        "name": "QUẬN NGŨ HÀNH SƠN",
+        "province_code": "DNG"
+    },
+    {
+        "id": "518",
+        "code": "8034",
+        "name": "HUYỆN TÁNH LINH",
+        "province_code": "BTN"
+    },
+    {
+        "id": "60",
+        "code": "1867",
+        "name": "HUYỆN KIẾN THỤY",
+        "province_code": "HPG"
+    },
+    {
+        "id": "187",
+        "code": "3319",
+        "name": "HUYỆN MƯỜNG KHƯƠNG",
+        "province_code": "LCI"
+    },
+    {
+        "id": "118",
+        "code": "2613",
+        "name": "HUYỆN NA RÌ",
+        "province_code": "BKN"
+    },
+    {
+        "id": "501",
+        "code": "7580",
+        "name": "HUYỆN NHÀ BÈ",
+        "province_code": "HCM"
+    },
+    {
+        "id": "2262",
+        "code": "4716",
+        "name": "THỊ XÃ THÁI HÒA",
+        "province_code": "NAN"
+    },
+    {
+        "id": "170",
+        "code": "3131",
+        "name": "HUYỆN QUẢN BẠ",
+        "province_code": "HGG"
+    },
+    {
+        "id": "217",
+        "code": "3814",
+        "name": "HUYỆN ĐIỆN BIÊN",
+        "province_code": "DBN"
+    },
+    {
+        "id": "218",
+        "code": "3820",
+        "name": "HUYỆN ĐIỆN BIÊN ĐÔNG",
+        "province_code": "DBN"
+    },
+    {
+        "id": "222",
+        "code": "3839",
+        "name": "THỊ XÃ MƯỜNG LAY",
+        "province_code": "DBN"
+    },
+    {
+        "id": "599",
+        "code": "8837",
+        "name": "HUYỆN AN PHÚ",
+        "province_code": "AGG"
+    },
+    {
+        "id": "315",
+        "code": "4849",
+        "name": "HUYỆN ĐỨC THỌ",
+        "province_code": "HTH"
+    },
+    {
+        "id": "312",
+        "code": "4829",
+        "name": "HUYỆN CAN LỘC",
+        "province_code": "HTH"
+    },
+    {
+        "id": "669",
+        "code": "9626",
+        "name": "HUYỆN GIÁ RAI",
+        "province_code": "BLU"
+    },
+    {
+        "id": "158",
+        "code": "2994",
+        "name": "HUYỆN TÂN SƠN",
+        "province_code": "PHO"
+    },
+    {
+        "id": "642",
+        "code": "9317",
+        "name": "HUYỆN CHỢ LÁCH",
+        "province_code": "BTE"
+    },
+    {
+        "id": "581",
+        "code": "8710",
+        "name": "THÀNH PHỐ CAO LÃNH",
+        "province_code": "DTP"
+    },
+    {
+        "id": "321",
+        "code": "4891",
+        "name": "HUYỆN LỘC HÀ",
+        "province_code": "HTH"
+    },
+    {
+        "id": "541",
+        "code": "8310",
+        "name": "THỊ XÃ ĐỒNG XOÀI",
+        "province_code": "BPC"
+    },
+    {
+        "id": "156",
+        "code": "2976",
+        "name": "HUYỆN YÊN LẬP",
+        "province_code": "PHO"
+    },
+    {
+        "id": "606",
+        "code": "8921",
+        "name": "HUYỆN BÌNH MINH",
+        "province_code": "VLG"
+    },
+    {
+        "id": "1801",
+        "code": "1890",
+        "name": "QUẬN DƯƠNG KINH",
+        "province_code": "HPG"
+    },
+    {
+        "id": "232",
+        "code": "4015",
+        "name": "HUYỆN LÝ NHÂN",
+        "province_code": "HNM"
+    },
+    {
+        "id": "588",
+        "code": "8728",
+        "name": "HUYỆN LAI VUNG",
+        "province_code": "DTP"
+    },
+    {
+        "id": "160",
+        "code": "3015",
+        "name": "HUYỆN YÊN SƠN",
+        "province_code": "TQG"
+    },
+    {
+        "id": "227",
+        "code": "3915",
+        "name": "HUYỆN PHONG THỔ",
+        "province_code": "LCU"
+    },
+    {
+        "id": "205",
+        "code": "3610",
+        "name": "THỊ XÃ SƠN LA",
+        "province_code": "SLA"
+    },
+    {
+        "id": "206",
+        "code": "3615",
+        "name": "HUYỆN MAI SƠN",
+        "province_code": "SLA"
+    },
+    {
+        "id": "288",
+        "code": "4555",
+        "name": "HUYỆN QUẢNG XƯƠNG",
+        "province_code": "THA"
+    },
+    {
+        "id": "229",
+        "code": "3923",
+        "name": "HUYỆN SÌN HỒ",
+        "province_code": "LCU"
+    },
+    {
+        "id": "57",
+        "code": "1853",
+        "name": "HUYỆN AN LÃO",
+        "province_code": "HPG"
+    },
+    {
+        "id": "50",
+        "code": "1765",
+        "name": "HUYỆN TỨ KỲ",
+        "province_code": "HDG"
+    },
+    {
+        "id": "11",
+        "code": "1340",
+        "name": "HUYỆN THANH TRÌ",
+        "province_code": "HNI"
+    },
+    {
+        "id": "540",
+        "code": "8246",
+        "name": "THỊ XÃ DĨ AN",
+        "province_code": "BDG"
+    },
+    {
+        "id": "40",
+        "code": "1727",
+        "name": "HUYỆN THANH HÀ ",
+        "province_code": "HDG"
+    },
+    {
+        "id": "77",
+        "code": "2079",
+        "name": "THỊ XÃ UÔNG BÍ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "76",
+        "code": "2075",
+        "name": "THỊ XÃ QUẢNG YÊN",
+        "province_code": "QNH"
+    },
+    {
+        "id": "78",
+        "code": "2086",
+        "name": "HUYỆN ĐÔNG TRIỀU",
+        "province_code": "QNH"
+    },
+    {
+        "id": "70",
+        "code": "2059",
+        "name": "HUYỆN BA CHẼ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "478",
+        "code": "6755",
+        "name": "HUYỆN CÁT TIÊN",
+        "province_code": "LDG"
+    },
+    {
+        "id": "373",
+        "code": "5710",
+        "name": "THÀNH PHỐ QUẢNG NGÃI",
+        "province_code": "QNI"
+    },
+    {
+        "id": "240",
+        "code": "4136",
+        "name": "HUYỆN QUỲNH PHỤ",
+        "province_code": "TBH"
+    },
+    {
+        "id": "333",
+        "code": "5226",
+        "name": "HUYỆN HƯỚNG HÓA",
+        "province_code": "QTI"
+    },
+    {
+        "id": "660",
+        "code": "9527",
+        "name": "HUYỆN THẠNH TRỊ",
+        "province_code": "STG"
+    },
+    {
+        "id": "385",
+        "code": "5738",
+        "name": "HUYỆN MỘ ĐỨC",
+        "province_code": "QNI"
+    },
+    {
+        "id": "336",
+        "code": "5237",
+        "name": "THỊ XÃ QUẢNG TRỊ",
+        "province_code": "QTI"
+    },
+    {
+        "id": "402",
+        "code": "5936",
+        "name": "HUYỆN HOÀI ÂN",
+        "province_code": "BDH"
+    },
+    {
+        "id": "466",
+        "code": "6631",
+        "name": "HUYỆN NINH SƠN",
+        "province_code": "NTN"
+    },
+    {
+        "id": "25",
+        "code": "1571",
+        "name": "HUYỆN ỨNG HÒA",
+        "province_code": "HNI"
+    },
+    {
+        "id": "267",
+        "code": "4437",
+        "name": "HUYỆN NGA SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "171",
+        "code": "3134",
+        "name": "HUYỆN VỊ XUYÊN",
+        "province_code": "HGG"
+    },
+    {
+        "id": "166",
+        "code": "3112",
+        "name": "HUYỆN BẮC MÊ",
+        "province_code": "HGG"
+    },
+    {
+        "id": "92",
+        "code": "2347",
+        "name": "HUYỆN YÊN THẾ",
+        "province_code": "BGG"
+    },
+    {
+        "id": "446",
+        "code": "6410",
+        "name": "THỊ XÃ GIA NGHĨA",
+        "province_code": "DKG"
+    },
+    {
+        "id": "494",
+        "code": "7400",
+        "name": "QUẬN 10",
+        "province_code": "HCM"
+    },
+    {
+        "id": "155",
+        "code": "2970",
+        "name": "HUYỆN CẨM KHÊ",
+        "province_code": "PHO"
+    },
+    {
+        "id": "593",
+        "code": "8816",
+        "name": "HUYỆN CHỢ MỚI",
+        "province_code": "AGG"
+    },
+    {
+        "id": "223",
+        "code": "3840",
+        "name": "HUYỆN MƯỜNG NHÉ",
+        "province_code": "DBN"
+    },
+    {
+        "id": "326",
+        "code": "5132",
+        "name": "HUYỆN MINH HÓA",
+        "province_code": "QBH"
+    },
+    {
+        "id": "406",
+        "code": "5945",
+        "name": "HUYỆN VÂN CANH",
+        "province_code": "BDH"
+    },
+    {
+        "id": "398",
+        "code": "5920",
+        "name": "HUYỆN AN NHƠN",
+        "province_code": "BDH"
+    },
+    {
+        "id": "519",
+        "code": "8037",
+        "name": "HUYỆN ĐỨC LINH",
+        "province_code": "BTN"
+    },
+    {
+        "id": "549",
+        "code": "8410",
+        "name": "THỊ XÃ TÂY NINH",
+        "province_code": "TNH"
+    },
+    {
+        "id": "1941",
+        "code": "6630",
+        "name": "HUYỆN THUẬN NAM",
+        "province_code": "NTN"
+    },
+    {
+        "id": "2022",
+        "code": "9321",
+        "name": "HUYỆN MỎ CÀY NAM",
+        "province_code": "BTE"
+    },
+    {
+        "id": "26",
+        "code": "1576",
+        "name": "HUYỆN MỸ ĐỨC",
+        "province_code": "HNI"
+    },
+    {
+        "id": "277",
+        "code": "4487",
+        "name": "HUYỆN TRIỆU SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "304",
+        "code": "4733",
+        "name": "HUYỆN TƯƠNG DƯƠNG",
+        "province_code": "NAN"
+    },
+    {
+        "id": "300",
+        "code": "4711",
+        "name": "HUYỆN QUẾ PHONG",
+        "province_code": "NAN"
+    },
+    {
+        "id": "285",
+        "code": "4538",
+        "name": "HUYỆN NÔNG CỐNG",
+        "province_code": "THA"
+    },
+    {
+        "id": "174",
+        "code": "3148",
+        "name": "HUYỆN BẮC QUANG",
+        "province_code": "HGG"
+    },
+    {
+        "id": "474",
+        "code": "6737",
+        "name": "HUYỆN DI LINH",
+        "province_code": "LDG"
+    },
+    {
+        "id": "66",
+        "code": "2032",
+        "name": "THỊ XÃ CẨM PHẢ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "297",
+        "code": "4684",
+        "name": "HUYỆN TÂN KỲ",
+        "province_code": "NAN"
+    },
+    {
+        "id": "418",
+        "code": "6057",
+        "name": "HUYỆN KÔNG CHRO",
+        "province_code": "GLI"
+    },
+    {
+        "id": "293",
+        "code": "4638",
+        "name": "HUYỆN DIỄN CHÂU",
+        "province_code": "NAN"
+    },
+    {
+        "id": "457",
+        "code": "6537",
+        "name": "HUYỆN DIÊN KHÁNH",
+        "province_code": "KHA"
+    },
+    {
+        "id": "458",
+        "code": "6540",
+        "name": "HUYỆN KHÁNH VĨNH",
+        "province_code": "KHA"
+    },
+    {
+        "id": "440",
+        "code": "6360",
+        "name": "HUYỆN BUÔN ĐÔN",
+        "province_code": "DLK"
+    },
+    {
+        "id": "495",
+        "code": "7430",
+        "name": "QUẬN 11",
+        "province_code": "HCM"
+    },
+    {
+        "id": "479",
+        "code": "6758",
+        "name": "HUYỆN ĐẠ HUOAI",
+        "province_code": "LDG"
+    },
+    {
+        "id": "472",
+        "code": "6728",
+        "name": "HUYỆN LÂM HÀ",
+        "province_code": "LDG"
+    },
+    {
+        "id": "674",
+        "code": "9721",
+        "name": "HUYỆN U MINH",
+        "province_code": "CMU"
+    },
+    {
+        "id": "389",
+        "code": "5820",
+        "name": "HUYỆN KON PLÔNG",
+        "province_code": "KTM"
+    },
+    {
+        "id": "1881",
+        "code": "9250",
+        "name": "HUYÊN GIANG THÀNH",
+        "province_code": "KGG"
+    },
+    {
+        "id": "635",
+        "code": "9232",
+        "name": "HUYỆN VĨNH THUẬN",
+        "province_code": "KGG"
+    },
+    {
+        "id": "441",
+        "code": "6363",
+        "name": "HUYỆN EA SÚP",
+        "province_code": "DLK"
+    },
+    {
+        "id": "349",
+        "code": "5533",
+        "name": "QUẬN SƠN TRÀ",
+        "province_code": "DNG"
+    },
+    {
+        "id": "401",
+        "code": "5932",
+        "name": "HUYỆN HOÀI NHƠN",
+        "province_code": "BDH"
+    },
+    {
+        "id": "522",
+        "code": "8046",
+        "name": "THỊ XÃ LA GI",
+        "province_code": "BTN"
+    },
+    {
+        "id": "19",
+        "code": "1540",
+        "name": "THỊ XÃ SƠN TÂY",
+        "province_code": "HNI"
+    },
+    {
+        "id": "504",
+        "code": "7620",
+        "name": "QUẬN BÌNH TÂN",
+        "province_code": "HCM"
+    },
+    {
+        "id": "178",
+        "code": "3226",
+        "name": "HUYỆN LỤC YÊN",
+        "province_code": "YBN"
+    },
+    {
+        "id": "196",
+        "code": "3517",
+        "name": "HUYỆN LƯƠNG SƠN",
+        "province_code": "HBH"
+    },
+    {
+        "id": "338",
+        "code": "5244",
+        "name": "HUYỆN CỒN CỎ",
+        "province_code": "QTI"
+    },
+    {
+        "id": "305",
+        "code": "4738",
+        "name": "HUYỆN KỲ SƠN",
+        "province_code": "NAN"
+    },
+    {
+        "id": "289",
+        "code": "4564",
+        "name": "HUYỆN TĨNH GIA",
+        "province_code": "THA"
+    },
+    {
+        "id": "90",
+        "code": "2330",
+        "name": "HUYỆN LỤC NGẠN",
+        "province_code": "BGG"
+    },
+    {
+        "id": "542",
+        "code": "8315",
+        "name": "HUYỆN ĐỒNG PHÚ",
+        "province_code": "BPC"
+    },
+    {
+        "id": "314",
+        "code": "4844",
+        "name": "HUYỆN NGHI XUÂN",
+        "province_code": "HTH"
+    },
+    {
+        "id": "316",
+        "code": "4856",
+        "name": "HUYỆN HƯƠNG SƠN",
+        "province_code": "HTH"
+    },
+    {
+        "id": "150",
+        "code": "2940",
+        "name": "HUYỆN TAM NÔNG",
+        "province_code": "PHO"
+    },
+    {
+        "id": "369",
+        "code": "5655",
+        "name": "HUYỆN ĐÔNG GIANG",
+        "province_code": "QNM"
+    },
+    {
+        "id": "56",
+        "code": "1851",
+        "name": "QUẬN KIẾN AN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "654",
+        "code": "9435",
+        "name": "HUYỆN CẦU NGANG",
+        "province_code": "TVH"
+    },
+    {
+        "id": "213",
+        "code": "3657",
+        "name": "HUYỆN THUẬN CHÂU",
+        "province_code": "SLA"
+    },
+    {
+        "id": "99",
+        "code": "2425",
+        "name": "HUYỆN VĂN LÃNG",
+        "province_code": "LSN"
+    },
+    {
+        "id": "363",
+        "code": "5636",
+        "name": "HUYỆN BẮC TRÀ MY",
+        "province_code": "QNM"
+    },
+    {
+        "id": "571",
+        "code": "8553",
+        "name": "HUYỆN TÂN HƯNG",
+        "province_code": "LAN"
+    },
+    {
+        "id": "559",
+        "code": "8518",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "LAN"
+    },
+    {
+        "id": "576",
+        "code": "8630",
+        "name": "HUYỆN GÒ CÔNG ĐÔNG",
+        "province_code": "TGG"
+    },
+    {
+        "id": "17",
+        "code": "1533",
+        "name": "HUYỆN ĐAN PHƯỢNG",
+        "province_code": "HNI"
+    },
+    {
+        "id": "42",
+        "code": "1734",
+        "name": "HUYỆN NAM SÁCH",
+        "province_code": "HDG"
+    },
+    {
+        "id": "7",
+        "code": "1250",
+        "name": "QUẬN LONG BIÊN",
+        "province_code": "HNI"
+    },
+    {
+        "id": "290",
+        "code": "4610",
+        "name": "THÀNH PHỐ VINH",
+        "province_code": "NAN"
+    },
+    {
+        "id": "469",
+        "code": "6710",
+        "name": "THÀNH PHỐ ĐÀ LẠT",
+        "province_code": "LDG"
+    },
+    {
+        "id": "409",
+        "code": "6021",
+        "name": "HUYỆN MANG YANG",
+        "province_code": "GLI"
+    },
+    {
+        "id": "443",
+        "code": "6370",
+        "name": "HUYỆN KRÔNG BÔNG",
+        "province_code": "DLK"
+    },
+    {
+        "id": "68",
+        "code": "2055",
+        "name": "HUYỆN CÔ TÔ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "658",
+        "code": "9520",
+        "name": "HUYỆN KẾ SÁCH",
+        "province_code": "STG"
+    },
+    {
+        "id": "461",
+        "code": "6548",
+        "name": "HUYỆN TRƯỜNG SA",
+        "province_code": "KHA"
+    },
+    {
+        "id": "430",
+        "code": "6232",
+        "name": "HUYỆN TÂY HÒA",
+        "province_code": "PYN"
+    },
+    {
+        "id": "477",
+        "code": "6752",
+        "name": "HUYỆN ĐẠ TẺH",
+        "province_code": "LDG"
+    },
+    {
+        "id": "334",
+        "code": "5230",
+        "name": "HUYỆN ĐA KRÔNG",
+        "province_code": "QTI"
+    },
+    {
+        "id": "337",
+        "code": "5238",
+        "name": "HUYỆN HẢI LĂNG",
+        "province_code": "QTI"
+    },
+    {
+        "id": "387",
+        "code": "5810",
+        "name": "THÀNH PHỐ KON TUM",
+        "province_code": "KTM"
+    },
+    {
+        "id": "391",
+        "code": "5825",
+        "name": "HUYỆN ĐẮK TÔ",
+        "province_code": "KTM"
+    },
+    {
+        "id": "370",
+        "code": "5658",
+        "name": "HUYỆN TÂY GIANG",
+        "province_code": "QNM"
+    },
+    {
+        "id": "331",
+        "code": "5218",
+        "name": "HUYỆN VĨNH LINH",
+        "province_code": "QTI"
+    },
+    {
+        "id": "520",
+        "code": "8040",
+        "name": "HUYỆN HÀM TÂN",
+        "province_code": "BTN"
+    },
+    {
+        "id": "552",
+        "code": "8422",
+        "name": "HUYỆN TÂN BIÊN",
+        "province_code": "TNH"
+    },
+    {
+        "id": "556",
+        "code": "8431",
+        "name": "HUYỆN GÒ DẦU",
+        "province_code": "TNH"
+    },
+    {
+        "id": "464",
+        "code": "6626",
+        "name": "HUYỆN NINH HẢI",
+        "province_code": "NTN"
+    },
+    {
+        "id": "468",
+        "code": "6636",
+        "name": "HUYỆN THUẬN BẮC",
+        "province_code": "NTN"
+    },
+    {
+        "id": "448",
+        "code": "6416",
+        "name": "HUYỆN ĐẮK SONG",
+        "province_code": "DKG"
+    },
+    {
+        "id": "596",
+        "code": "8828",
+        "name": "HUYỆN CHÂU PHÚ",
+        "province_code": "AGG"
+    },
+    {
+        "id": "161",
+        "code": "3028",
+        "name": "HUYỆN SƠN DƯƠNG",
+        "province_code": "TQG"
+    },
+    {
+        "id": "650",
+        "code": "9421",
+        "name": "HUYỆN CẦU KÈ",
+        "province_code": "TVH"
+    },
+    {
+        "id": "590",
+        "code": "8738",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "DTP"
+    },
+    {
+        "id": "649",
+        "code": "9417",
+        "name": "HUYỆN CÀNG LONG",
+        "province_code": "TVH"
+    },
+    {
+        "id": "270",
+        "code": "4452",
+        "name": "HUYỆN ĐÔNG SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "209",
+        "code": "3636",
+        "name": "HUYỆN PHÙ YÊN",
+        "province_code": "SLA"
+    },
+    {
+        "id": "230",
+        "code": "3929",
+        "name": "HUYỆN THAN UYÊN",
+        "province_code": "LCU"
+    },
+    {
+        "id": "622",
+        "code": "9122",
+        "name": "HUYỆN VỊ THỦY",
+        "province_code": "HUG"
+    },
+    {
+        "id": "574",
+        "code": "8624",
+        "name": "HUYỆN GÒ CÔNG TÂY",
+        "province_code": "TGG"
+    },
+    {
+        "id": "580",
+        "code": "8647",
+        "name": "HUYỆN CÁI BÈ",
+        "province_code": "TGG"
+    },
+    {
+        "id": "273",
+        "code": "4467",
+        "name": "HUYỆN VĨNH LỘC",
+        "province_code": "THA"
+    },
+    {
+        "id": "258",
+        "code": "4326",
+        "name": "HUYỆN NHO QUAN",
+        "province_code": "NBH"
+    },
+    {
+        "id": "140",
+        "code": "2815",
+        "name": "HUYỆN TAM DƯƠNG",
+        "province_code": "VPC"
+    },
+    {
+        "id": "537",
+        "code": "8231",
+        "name": "THỊ XÃ BẾN CÁT",
+        "province_code": "BDG"
+    },
+    {
+        "id": "634",
+        "code": "9230",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "KGG"
+    },
+    {
+        "id": "71",
+        "code": "2061",
+        "name": "HUYỆN BÌNH LIÊU",
+        "province_code": "QNH"
+    },
+    {
+        "id": "72",
+        "code": "2063",
+        "name": "HUYỆN ĐẦM HÀ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "432",
+        "code": "6310",
+        "name": "THÀNH PHỐ BUÔN MA THUỘT",
+        "province_code": "DLK"
+    },
+    {
+        "id": "442",
+        "code": "6366",
+        "name": "HUYỆN KRÔNG A NA",
+        "province_code": "DLK"
+    },
+    {
+        "id": "444",
+        "code": "6374",
+        "name": "HUYỆN LẮK",
+        "province_code": "DLK"
+    },
+    {
+        "id": "1781",
+        "code": "9550",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "STG"
+    },
+    {
+        "id": "500",
+        "code": "7560",
+        "name": "QUẬN 7",
+        "province_code": "HCM"
+    },
+    {
+        "id": "241",
+        "code": "4142",
+        "name": "HUYỆN HƯNG HÀ",
+        "province_code": "TBH"
+    },
+    {
+        "id": "5",
+        "code": "1220",
+        "name": "QUẬN CẦU GIẤY",
+        "province_code": "HNI"
+    },
+    {
+        "id": "343",
+        "code": "5357",
+        "name": "HUYỆN A LƯỚI",
+        "province_code": "HUE"
+    },
+    {
+        "id": "678",
+        "code": "9734",
+        "name": "HUYỆN NGỌC HIỂN",
+        "province_code": "CMU"
+    },
+    {
+        "id": "395",
+        "code": "5837",
+        "name": "HUYỆN TU MƠ RÔNG",
+        "province_code": "KTM"
+    },
+    {
+        "id": "489",
+        "code": "7290",
+        "name": "QUẬN 12",
+        "province_code": "HCM"
+    },
+    {
+        "id": "551",
+        "code": "8419",
+        "name": "HUYỆN TÂN CHÂU",
+        "province_code": "TNH"
+    },
+    {
+        "id": "553",
+        "code": "8424",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "TNH"
+    },
+    {
+        "id": "324",
+        "code": "5122",
+        "name": "HUYỆN QUẢNG TRẠCH",
+        "province_code": "QBH"
+    },
+    {
+        "id": "332",
+        "code": "5223",
+        "name": "HUYỆN CAM LỘ",
+        "province_code": "QTI"
+    },
+    {
+        "id": "647",
+        "code": "9337",
+        "name": "HUYỆN BÌNH ĐẠI",
+        "province_code": "BTE"
+    },
+    {
+        "id": "203",
+        "code": "3551",
+        "name": "HUYỆN KIM BÔI",
+        "province_code": "HBH"
+    },
+    {
+        "id": "18",
+        "code": "1536",
+        "name": "HUYỆN PHÚC THỌ",
+        "province_code": "HNI"
+    },
+    {
+        "id": "483",
+        "code": "7150",
+        "name": "QUẬN 9",
+        "province_code": "HCM"
+    },
+    {
+        "id": "451",
+        "code": "6424",
+        "name": "HUYỆN CƯ JÚT",
+        "province_code": "DKG"
+    },
+    {
+        "id": "180",
+        "code": "3240",
+        "name": "HUYỆN VĂN YÊN",
+        "province_code": "YBN"
+    },
+    {
+        "id": "450",
+        "code": "6421",
+        "name": "HUYỆN KRÔNG NÔ",
+        "province_code": "DKG"
+    },
+    {
+        "id": "188",
+        "code": "3325",
+        "name": "HUYỆN BÁT XÁT",
+        "province_code": "LCI"
+    },
+    {
+        "id": "177",
+        "code": "3219",
+        "name": "HUYỆN YÊN BÌNH",
+        "province_code": "YBN"
+    },
+    {
+        "id": "183",
+        "code": "3259",
+        "name": "HUYỆN TRẠM TẤU",
+        "province_code": "YBN"
+    },
+    {
+        "id": "299",
+        "code": "4697",
+        "name": "HUYỆN QUỲ CHÂU",
+        "province_code": "NAN"
+    },
+    {
+        "id": "59",
+        "code": "1862",
+        "name": "HUYỆN VĨNH BẢO",
+        "province_code": "HPG"
+    },
+    {
+        "id": "280",
+        "code": "4523",
+        "name": "HUYỆN LANG CHÁNH",
+        "province_code": "THA"
+    },
+    {
+        "id": "198",
+        "code": "3527",
+        "name": "HUYỆN TÂN LẠC",
+        "province_code": "HBH"
+    },
+    {
+        "id": "502",
+        "code": "7590",
+        "name": "HUYỆN CẦN GIỜ",
+        "province_code": "HCM"
+    },
+    {
+        "id": "173",
+        "code": "3144",
+        "name": "HUYỆN XÍN MẦN",
+        "province_code": "HGG"
+    },
+    {
+        "id": "119",
+        "code": "2619",
+        "name": "HUYỆN BẠCH THÔNG",
+        "province_code": "BKN"
+    },
+    {
+        "id": "121",
+        "code": "2627",
+        "name": "HUYỆN BA BỂ",
+        "province_code": "BKN"
+    },
+    {
+        "id": "598",
+        "code": "8834",
+        "name": "THỊ XÃ TÂN CHÂU",
+        "province_code": "AGG"
+    },
+    {
+        "id": "600",
+        "code": "8840",
+        "name": "HUYỆN TỊNH BIÊN",
+        "province_code": "AGG"
+    },
+    {
+        "id": "263",
+        "code": "4410",
+        "name": "THÀNH PHỐ THANH HÓA",
+        "province_code": "THA"
+    },
+    {
+        "id": "104",
+        "code": "2456",
+        "name": "HUYỆN CHI LĂNG",
+        "province_code": "LSN"
+    },
+    {
+        "id": "109",
+        "code": "2525",
+        "name": "HUYỆN ĐỒNG HỶ",
+        "province_code": "TNN"
+    },
+    {
+        "id": "652",
+        "code": "9426",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "TVH"
+    },
+    {
+        "id": "618",
+        "code": "9050",
+        "name": "HUYỆN VĨNH THẠNH",
+        "province_code": "CTO"
+    },
+    {
+        "id": "228",
+        "code": "3919",
+        "name": "HUYỆN MƯỜNG TÈ",
+        "province_code": "LCU"
+    },
+    {
+        "id": "416",
+        "code": "6047",
+        "name": "HUYỆN CHƯ SÊ",
+        "province_code": "GLI"
+    },
+    {
+        "id": "103",
+        "code": "2450",
+        "name": "HUYỆN BẮC SƠN",
+        "province_code": "LSN"
+    },
+    {
+        "id": "356",
+        "code": "5610",
+        "name": "THÀNH PHỐ TAM KỲ",
+        "province_code": "QNM"
+    },
+    {
+        "id": "257",
+        "code": "4322",
+        "name": "HUYỆN GIA VIỄN",
+        "province_code": "NBH"
+    },
+    {
+        "id": "260",
+        "code": "4336",
+        "name": "HUYỆN YÊN MÔ",
+        "province_code": "NBH"
+    },
+    {
+        "id": "628",
+        "code": "9216",
+        "name": "HUYỆN HÒN ĐẤT",
+        "province_code": "KGG"
+    },
+    {
+        "id": "291",
+        "code": "4624",
+        "name": "THỊ XÃ CỬA LÒ",
+        "province_code": "NAN"
+    },
+    {
+        "id": "45",
+        "code": "1747",
+        "name": "HUYỆN CẨM GIÀNG",
+        "province_code": "HDG"
+    },
+    {
+        "id": "48",
+        "code": "1758",
+        "name": "HUYỆN THANH MIỆN",
+        "province_code": "HDG"
+    },
+    {
+        "id": "139",
+        "code": "2812",
+        "name": "HUYỆN BÌNH XUYÊN",
+        "province_code": "VPC"
+    },
+    {
+        "id": "481",
+        "code": "7100",
+        "name": "QUẬN 1",
+        "province_code": "HCM"
+    },
+    {
+        "id": "411",
+        "code": "6026",
+        "name": "HUYỆN KBANG",
+        "province_code": "GLI"
+    },
+    {
+        "id": "67",
+        "code": "2053",
+        "name": "HUYỆN VÂN ĐỒN",
+        "province_code": "QNH"
+    },
+    {
+        "id": "436",
+        "code": "6343",
+        "name": "HUYỆN CƯ M'GAR",
+        "province_code": "DLK"
+    },
+    {
+        "id": "377",
+        "code": "5722",
+        "name": "HUYỆN TRÀ BỒNG",
+        "province_code": "QNI"
+    },
+    {
+        "id": "664",
+        "code": "9540",
+        "name": "HUYỆN NGÃ NĂM",
+        "province_code": "STG"
+    },
+    {
+        "id": "24",
+        "code": "1567",
+        "name": "HUYỆN THANH OAI",
+        "province_code": "HNI"
+    },
+    {
+        "id": "348",
+        "code": "5510",
+        "name": "QUẬN HẢI CHÂU",
+        "province_code": "DNG"
+    },
+    {
+        "id": "488",
+        "code": "7270",
+        "name": "QUẬN GÒ VẤP",
+        "province_code": "HCM"
+    },
+    {
+        "id": "378",
+        "code": "5724",
+        "name": "HUYỆN TÂY TRÀ",
+        "province_code": "QNI"
+    },
+    {
+        "id": "255",
+        "code": "4310",
+        "name": "THÀNH PHỐ NINH BÌNH",
+        "province_code": "NBH"
+    },
+    {
+        "id": "39",
+        "code": "1710",
+        "name": "TP HẢI DƯƠNG",
+        "province_code": "HDG"
+    },
+    {
+        "id": "535",
+        "code": "8223",
+        "name": "THỊ XÃ TÂN UYÊN",
+        "province_code": "BDG"
+    },
+    {
+        "id": "408",
+        "code": "6017",
+        "name": "HUYỆN ĐĂK ĐOA",
+        "province_code": "GLI"
+    },
+    {
+        "id": "425",
+        "code": "6219",
+        "name": "THỊ XÃ SÔNG CẦU",
+        "province_code": "PYN"
+    },
+    {
+        "id": "437",
+        "code": "6347",
+        "name": "HUYỆN KRÔNG BÚK",
+        "province_code": "DLK"
+    },
+    {
+        "id": "438",
+        "code": "6352",
+        "name": "HUYỆN KRÔNG NĂNG",
+        "province_code": "DLK"
+    },
+    {
+        "id": "455",
+        "code": "6529",
+        "name": "HUYỆN NINH HÒA",
+        "province_code": "KHA"
+    },
+    {
+        "id": "8",
+        "code": "1270",
+        "name": "QUẬN HOÀNG MAI",
+        "province_code": "HNI"
+    },
+    {
+        "id": "367",
+        "code": "5651",
+        "name": "HUYỆN PHƯỚC SƠN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "639",
+        "code": "9246",
+        "name": "HUYỆN U MINH THƯỢNG",
+        "province_code": "KGG"
+    },
+    {
+        "id": "491",
+        "code": "7330",
+        "name": "HUYỆN CỦ CHI",
+        "province_code": "HCM"
+    },
+    {
+        "id": "386",
+        "code": "5740",
+        "name": "HUYỆN TƯ NGHĨA",
+        "province_code": "QNI"
+    },
+    {
+        "id": "212",
+        "code": "3653",
+        "name": "HUYỆN QUỲNH NHAI",
+        "province_code": "SLA"
+    },
+    {
+        "id": "382",
+        "code": "5731",
+        "name": "HUYỆN MINH LONG",
+        "province_code": "QNI"
+    },
+    {
+        "id": "328",
+        "code": "5139",
+        "name": "HUYỆN LỆ THỦY",
+        "province_code": "QBH"
+    },
+    {
+        "id": "329",
+        "code": "5210",
+        "name": "THÀNH PHỐ ĐÔNG HÀ",
+        "province_code": "QTI"
+    },
+    {
+        "id": "21",
+        "code": "1553",
+        "name": "HUYỆN THẠCH THẤT",
+        "province_code": "HNI"
+    },
+    {
+        "id": "355",
+        "code": "5574",
+        "name": "QUẬN CẨM LỆ",
+        "province_code": "DNG"
+    },
+    {
+        "id": "452",
+        "code": "6427",
+        "name": "HUYỆN ĐẮK GLONG",
+        "province_code": "DKG"
+    },
+    {
+        "id": "2062",
+        "code": "6390",
+        "name": "THỊ XÃ BUÔN HỒ",
+        "province_code": "DLK"
+    },
+    {
+        "id": "512",
+        "code": "7956",
+        "name": "THỊ XÃ PHÚ MỸ",
+        "province_code": "VTU"
+    },
+    {
+        "id": "189",
+        "code": "3331",
+        "name": "HUYỆN SA PA",
+        "province_code": "LCI"
+    },
+    {
+        "id": "204",
+        "code": "3558",
+        "name": "HUYỆN LẠC THỦY",
+        "province_code": "HBH"
+    },
+    {
+        "id": "424",
+        "code": "6216",
+        "name": "HUYỆN TUY AN",
+        "province_code": "PYN"
+    },
+    {
+        "id": "120",
+        "code": "2623",
+        "name": "HUYỆN NGÂN SƠN",
+        "province_code": "BKN"
+    },
+    {
+        "id": "303",
+        "code": "4730",
+        "name": "HUYỆN CON CUÔNG",
+        "province_code": "NAN"
+    },
+    {
+        "id": "521",
+        "code": "8044",
+        "name": "HUYỆN PHÚ QUÝ",
+        "province_code": "BTN"
+    },
+    {
+        "id": "2183",
+        "code": "8648",
+        "name": "HUYỆN TÂN PHÚ ĐÔNG",
+        "province_code": "TGG"
+    },
+    {
+        "id": "172",
+        "code": "3139",
+        "name": "HUYỆN HOÀNG SU PHÌ",
+        "province_code": "HGG"
+    },
+    {
+        "id": "117",
+        "code": "2610",
+        "name": "THỊ XÃ BẮC KẠN",
+        "province_code": "BKN"
+    },
+    {
+        "id": "671",
+        "code": "9632",
+        "name": "HUYỆN HÒA BÌNH",
+        "province_code": "BLU"
+    },
+    {
+        "id": "670",
+        "code": "9629",
+        "name": "HUYỆN ĐÔNG HẢI",
+        "province_code": "BLU"
+    },
+    {
+        "id": "159",
+        "code": "3010",
+        "name": "THỊ XÃ TUYÊN QUANG",
+        "province_code": "TQG"
+    },
+    {
+        "id": "665",
+        "code": "9610",
+        "name": "THỊ XÃ BẠC LIÊU",
+        "province_code": "BLU"
+    },
+    {
+        "id": "137",
+        "code": "2778",
+        "name": "HUYỆN PHỤC HÒA",
+        "province_code": "CBG"
+    },
+    {
+        "id": "32",
+        "code": "1618",
+        "name": "HUYỆN ÂN THI",
+        "province_code": "HYN"
+    },
+    {
+        "id": "655",
+        "code": "9439",
+        "name": "HUYỆN DUYÊN HẢI",
+        "province_code": "TVH"
+    },
+    {
+        "id": "110",
+        "code": "2532",
+        "name": "HUYỆN VÕ NHAI",
+        "province_code": "TNN"
+    },
+    {
+        "id": "234",
+        "code": "4027",
+        "name": "HUYỆN KIM BẢNG",
+        "province_code": "HNM"
+    },
+    {
+        "id": "108",
+        "code": "2510",
+        "name": "THÀNH PHỐ THÁI NGUYÊN",
+        "province_code": "TNN"
+    },
+    {
+        "id": "116",
+        "code": "2575",
+        "name": "HUYỆN PHÚ BÌNH",
+        "province_code": "TNN"
+    },
+    {
+        "id": "211",
+        "code": "3647",
+        "name": "HUYỆN MƯỜNG LA",
+        "province_code": "SLA"
+    },
+    {
+        "id": "86",
+        "code": "2235",
+        "name": "HUYỆN LƯƠNG TÀI",
+        "province_code": "BNH"
+    },
+    {
+        "id": "525",
+        "code": "8137",
+        "name": "HUYỆN THỐNG NHẤT",
+        "province_code": "DNI"
+    },
+    {
+        "id": "420",
+        "code": "6064",
+        "name": "HUYỆN ĐĂK PƠ",
+        "province_code": "GLI"
+    },
+    {
+        "id": "562",
+        "code": "8527",
+        "name": "HUYỆN CẦN ĐƯỚC",
+        "province_code": "LAN"
+    },
+    {
+        "id": "573",
+        "code": "8620",
+        "name": "HUYỆN CHỢ GẠO",
+        "province_code": "TGG"
+    },
+    {
+        "id": "475",
+        "code": "6743",
+        "name": "HUYỆN BẢO LÂM",
+        "province_code": "LDG"
+    },
+    {
+        "id": "623",
+        "code": "9125",
+        "name": "HUYỆN CHÂU THÀNH A",
+        "province_code": "HUG"
+    },
+    {
+        "id": "366",
+        "code": "5647",
+        "name": "HUYỆN ĐẠI LỘC",
+        "province_code": "QNM"
+    },
+    {
+        "id": "23",
+        "code": "1561",
+        "name": "HUYỆN CHƯƠNG MỸ",
+        "province_code": "HNI"
+    },
+    {
+        "id": "246",
+        "code": "4239",
+        "name": "HUYỆN MỸ LỘC",
+        "province_code": "NDH"
+    },
+    {
+        "id": "620",
+        "code": "9115",
+        "name": "HUYỆN LONG MỸ",
+        "province_code": "HUG"
+    },
+    {
+        "id": "13",
+        "code": "1390",
+        "name": "HUYỆN SÓC SƠN",
+        "province_code": "HNI"
+    },
+    {
+        "id": "261",
+        "code": "4339",
+        "name": "HUYỆN KIM SƠN",
+        "province_code": "NBH"
+    },
+    {
+        "id": "10",
+        "code": "1310",
+        "name": "HUYỆN GIA LÂM",
+        "province_code": "HNI"
+    },
+    {
+        "id": "49",
+        "code": "1761",
+        "name": "HUYỆN NINH GIANG",
+        "province_code": "HDG"
+    },
+    {
+        "id": "509",
+        "code": "7948",
+        "name": "HUYỆN XUYÊN MỘC",
+        "province_code": "VTU"
+    },
+    {
+        "id": "282",
+        "code": "4529",
+        "name": "HUYỆN QUAN SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "95",
+        "code": "2366",
+        "name": "HUYỆN HIỆP HÒA",
+        "province_code": "BGG"
+    },
+    {
+        "id": "94",
+        "code": "2361",
+        "name": "HUYỆN VIỆT YÊN",
+        "province_code": "BGG"
+    },
+    {
+        "id": "157",
+        "code": "2982",
+        "name": "HUYỆN THANH SƠN",
+        "province_code": "PHO"
+    },
+    {
+        "id": "128",
+        "code": "2727",
+        "name": "HUYỆN TRÙNG KHÁNH",
+        "province_code": "CBG"
+    },
+    {
+        "id": "214",
+        "code": "3668",
+        "name": "HUYỆN SÔNG MÃ",
+        "province_code": "SLA"
+    },
+    {
+        "id": "529",
+        "code": "8150",
+        "name": "HUYỆN VĨNH CỬU",
+        "province_code": "DNI"
+    },
+    {
+        "id": "615",
+        "code": "9042",
+        "name": "QUẬN THỐT NỐT",
+        "province_code": "CTO"
+    },
+    {
+        "id": "413",
+        "code": "6034",
+        "name": "HUYỆN IA GRAI",
+        "province_code": "GLI"
+    },
+    {
+        "id": "69",
+        "code": "2056",
+        "name": "HUYỆN TIÊN YÊN",
+        "province_code": "QNH"
+    },
+    {
+        "id": "1",
+        "code": "1120",
+        "name": "QUẬN HAI BÀ TRƯNG",
+        "province_code": "HNI"
+    },
+    {
+        "id": "459",
+        "code": "6542",
+        "name": "HUYỆN KHÁNH SƠN",
+        "province_code": "KHA"
+    },
+    {
+        "id": "460",
+        "code": "6544",
+        "name": "THÀNH PHỐ CAM RANH",
+        "province_code": "KHA"
+    },
+    {
+        "id": "6",
+        "code": "1240",
+        "name": "QUẬN TÂY HỒ",
+        "province_code": "HNI"
+    },
+    {
+        "id": "680",
+        "code": "9739",
+        "name": "HUYỆN NĂM CĂN",
+        "province_code": "CMU"
+    },
+    {
+        "id": "371",
+        "code": "5660",
+        "name": "HUYỆN NAM GIANG",
+        "province_code": "QNM"
+    },
+    {
+        "id": "325",
+        "code": "5128",
+        "name": "HUYỆN TUYÊN HÓA",
+        "province_code": "QBH"
+    },
+    {
+        "id": "467",
+        "code": "6633",
+        "name": "HUYỆN NINH PHƯỚC",
+        "province_code": "NTN"
+    },
+    {
+        "id": "515",
+        "code": "8023",
+        "name": "HUYỆN TUY PHONG",
+        "province_code": "BTN"
+    },
+    {
+        "id": "91",
+        "code": "2340",
+        "name": "HUYỆN LẠNG GIANG",
+        "province_code": "BGG"
+    },
+    {
+        "id": "154",
+        "code": "2962",
+        "name": "HUYỆN HẠ HÒA",
+        "province_code": "PHO"
+    },
+    {
+        "id": "310",
+        "code": "4810",
+        "name": "THÀNH PHỐ HÀ TĨNH",
+        "province_code": "HTH"
+    },
+    {
+        "id": "224",
+        "code": "3848",
+        "name": "HUYỆN MƯỜNG ÁNG",
+        "province_code": "DBN"
+    },
+    {
+        "id": "610",
+        "code": "8938",
+        "name": "HUYỆN BÌNH TÂN",
+        "province_code": "VLG"
+    },
+    {
+        "id": "135",
+        "code": "2767",
+        "name": "HUYỆN BẢO LÂM",
+        "province_code": "CBG"
+    },
+    {
+        "id": "235",
+        "code": "4033",
+        "name": "HUYỆN THANH LIÊM",
+        "province_code": "HNM"
+    },
+    {
+        "id": "648",
+        "code": "9410",
+        "name": "THỊ XÃ TRÀ VINH",
+        "province_code": "TVH"
+    },
+    {
+        "id": "532",
+        "code": "8161",
+        "name": "HUYỆN CẨM MỸ",
+        "province_code": "DNI"
+    },
+    {
+        "id": "526",
+        "code": "8139",
+        "name": "HUYỆN XUÂN LỘC",
+        "province_code": "DNI"
+    },
+    {
+        "id": "613",
+        "code": "9036",
+        "name": "QUẬN CÁI RĂNG",
+        "province_code": "CTO"
+    },
+    {
+        "id": "578",
+        "code": "8639",
+        "name": "HUYỆN TÂN PHƯỚC",
+        "province_code": "TGG"
+    },
+    {
+        "id": "262",
+        "code": "4345",
+        "name": "HUYỆN YÊN KHÁNH",
+        "province_code": "NBH"
+    },
+    {
+        "id": "292",
+        "code": "4626",
+        "name": "HUYỆN NGHI LỘC",
+        "province_code": "NAN"
+    },
+    {
+        "id": "47",
+        "code": "1754",
+        "name": "HUYỆN GIA LỘC",
+        "province_code": "HDG"
+    },
+    {
+        "id": "539",
+        "code": "8239",
+        "name": "THỊ XÃ THUẬN AN",
+        "province_code": "BDG"
+    },
+    {
+        "id": "286",
+        "code": "4546",
+        "name": "HUYỆN NHƯ THANH",
+        "province_code": "THA"
+    },
+    {
+        "id": "2222",
+        "code": "1891",
+        "name": "HUYỆN ĐẢO CÁT HẢI",
+        "province_code": "HPG"
+    },
+    {
+        "id": "547",
+        "code": "8333",
+        "name": "HUYỆN CHƠN THÀNH",
+        "province_code": "BPC"
+    },
+    {
+        "id": "484",
+        "code": "7170",
+        "name": "QUẬN BÌNH THẠNH",
+        "province_code": "HCM"
+    },
+    {
+        "id": "656",
+        "code": "9510",
+        "name": "THÀNH PHỐ SÓC TRĂNG",
+        "province_code": "STG"
+    },
+    {
+        "id": "125",
+        "code": "2710",
+        "name": "THÀNH PHỐ CAO BẰNG",
+        "province_code": "CBG"
+    },
+    {
+        "id": "651",
+        "code": "9423",
+        "name": "HUYỆN TIỂU CẦN",
+        "province_code": "TVH"
+    },
+    {
+        "id": "268",
+        "code": "4444",
+        "name": "HUYỆN HÀ TRUNG",
+        "province_code": "THA"
+    },
+    {
+        "id": "80",
+        "code": "2214",
+        "name": "HUYỆN YÊN PHONG",
+        "province_code": "BNH"
+    },
+    {
+        "id": "365",
+        "code": "5642",
+        "name": "HUYỆN ĐIỆN BÀN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "617",
+        "code": "9046",
+        "name": "HUYỆN CỜ ĐỎ",
+        "province_code": "CTO"
+    },
+    {
+        "id": "251",
+        "code": "4265",
+        "name": "HUYỆN NGHĨA HƯNG",
+        "province_code": "NDH"
+    },
+    {
+        "id": "295",
+        "code": "4662",
+        "name": "HUYỆN YÊN THÀNH",
+        "province_code": "NAN"
+    },
+    {
+        "id": "245",
+        "code": "4210",
+        "name": "THÀNH PHỐ NAM ĐỊNH",
+        "province_code": "NDH"
+    },
+    {
+        "id": "536",
+        "code": "8228",
+        "name": "HUYỆN PHÚ GIÁO",
+        "province_code": "BDG"
+    },
+    {
+        "id": "3",
+        "code": "1180",
+        "name": "QUẬN BA ĐÌNH",
+        "province_code": "HNI"
+    },
+    {
+        "id": "423",
+        "code": "6210",
+        "name": "THÀNH PHỐ TUY HÒA",
+        "province_code": "PYN"
+    },
+    {
+        "id": "238",
+        "code": "4121",
+        "name": "HUYỆN ĐÔNG HƯNG",
+        "province_code": "TBH"
+    },
+    {
+        "id": "661",
+        "code": "9530",
+        "name": "HUYỆN MỸ XUYÊN",
+        "province_code": "STG"
+    },
+    {
+        "id": "463",
+        "code": "6610",
+        "name": "TP.PHAN RANG - THÁP CHÀM",
+        "province_code": "NTN"
+    },
+    {
+        "id": "379",
+        "code": "5726",
+        "name": "HUYỆN SƠN HÀ",
+        "province_code": "QNI"
+    },
+    {
+        "id": "487",
+        "code": "7250",
+        "name": "QUẬN PHÚ NHUẬN",
+        "province_code": "HCM"
+    },
+    {
+        "id": "645",
+        "code": "9330",
+        "name": "HUYỆN THẠNH PHÚ",
+        "province_code": "BTE"
+    },
+    {
+        "id": "254",
+        "code": "4282",
+        "name": "HUYỆN HẢI HẬU",
+        "province_code": "NDH"
+    },
+    {
+        "id": "557",
+        "code": "8433",
+        "name": "HUYỆN TRẢNG BÀNG",
+        "province_code": "TNH"
+    },
+    {
+        "id": "449",
+        "code": "6418",
+        "name": "HUYỆN ĐẮK MIL",
+        "province_code": "DKG"
+    },
+    {
+        "id": "53",
+        "code": "1830",
+        "name": "HUYỆN THỦY NGUYÊN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "354",
+        "code": "5573",
+        "name": "HUYỆN HOÀNG SA",
+        "province_code": "DNG"
+    },
+    {
+        "id": "591",
+        "code": "8740",
+        "name": "HUYỆN CAO LÃNH",
+        "province_code": "DTP"
+    },
+    {
+        "id": "589",
+        "code": "8731",
+        "name": "THỊ XÃ SA ĐÉC",
+        "province_code": "DTP"
+    },
+    {
+        "id": "208",
+        "code": "3628",
+        "name": "HUYỆN MỘC CHÂU",
+        "province_code": "SLA"
+    },
+    {
+        "id": "98",
+        "code": "2418",
+        "name": "HUYỆN CAO LỘC",
+        "province_code": "LSN"
+    },
+    {
+        "id": "570",
+        "code": "8551",
+        "name": "HUYỆN VĨNH HƯNG",
+        "province_code": "LAN"
+    },
+    {
+        "id": "543",
+        "code": "8317",
+        "name": "HUYỆN BÙ ĐĂNG",
+        "province_code": "BPC"
+    },
+    {
+        "id": "626",
+        "code": "9210",
+        "name": "THÀNH PHỐ RẠCH GIÁ",
+        "province_code": "KGG"
+    },
+    {
+        "id": "4",
+        "code": "1200",
+        "name": "QUẬN THANH XUÂN",
+        "province_code": "HNI"
+    },
+    {
+        "id": "247",
+        "code": "4242",
+        "name": "HUYỆN VỤ BẢN",
+        "province_code": "NDH"
+    },
+    {
+        "id": "2",
+        "code": "1150",
+        "name": "QUẬN ĐỐNG ĐA",
+        "province_code": "HNI"
+    },
+    {
+        "id": "627",
+        "code": "9214",
+        "name": "HUYỆN TÂN HIỆP",
+        "province_code": "KGG"
+    },
+    {
+        "id": "65",
+        "code": "2010",
+        "name": "THÀNH PHỐ HẠ LONG",
+        "province_code": "QNH"
+    },
+    {
+        "id": "439",
+        "code": "6356",
+        "name": "HUYỆN EA H'LEO",
+        "province_code": "DLK"
+    },
+    {
+        "id": "476",
+        "code": "6747",
+        "name": "THỊ XÃ BẢO LỘC",
+        "province_code": "LDG"
+    },
+    {
+        "id": "345",
+        "code": "5364",
+        "name": "HUYỆN NAM ĐÔNG",
+        "province_code": "HUE"
+    },
+    {
+        "id": "426",
+        "code": "6222",
+        "name": "HUYỆN ĐỒNG XUÂN",
+        "province_code": "PYN"
+    },
+    {
+        "id": "388",
+        "code": "5818",
+        "name": "HUYỆN KON RẪY",
+        "province_code": "KTM"
+    },
+    {
+        "id": "327",
+        "code": "5136",
+        "name": "HUYỆN QUẢNG NINH",
+        "province_code": "QBH"
+    },
+    {
+        "id": "400",
+        "code": "5928",
+        "name": "HUYỆN PHÙ MỸ",
+        "province_code": "BDH"
+    },
+    {
+        "id": "517",
+        "code": "8031",
+        "name": "HUYỆN HÀM THUẬN NAM",
+        "province_code": "BTN"
+    },
+    {
+        "id": "186",
+        "code": "3316",
+        "name": "HUYỆN SI MA CAI",
+        "province_code": "LCI"
+    },
+    {
+        "id": "2042",
+        "code": "6067",
+        "name": "HUYỆN CHƯ PƯH",
+        "province_code": "GLI"
+    },
+    {
+        "id": "283",
+        "code": "4532",
+        "name": "HUYỆN MƯỜNG LÁT",
+        "province_code": "THA"
+    },
+    {
+        "id": "508",
+        "code": "7946",
+        "name": "HUYỆN ĐẤT ĐỎ",
+        "province_code": "VTU"
+    },
+    {
+        "id": "311",
+        "code": "4819",
+        "name": "HUYỆN THẠCH HÀ",
+        "province_code": "HTH"
+    },
+    {
+        "id": "668",
+        "code": "9624",
+        "name": "HUYỆN HỒNG DÂN",
+        "province_code": "BLU"
+    },
+    {
+        "id": "608",
+        "code": "8929",
+        "name": "HUYỆN VŨNG LIÊM",
+        "province_code": "VLG"
+    },
+    {
+        "id": "81",
+        "code": "2218",
+        "name": "HUYỆN TIÊN DU",
+        "province_code": "BNH"
+    },
+    {
+        "id": "52",
+        "code": "1818",
+        "name": "QUẬN NGÔ QUYỀN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "112",
+        "code": "2544",
+        "name": "HUYỆN ĐỊNH HÓA",
+        "province_code": "TNN"
+    },
+    {
+        "id": "207",
+        "code": "3624",
+        "name": "HUYỆN YÊN CHÂU",
+        "province_code": "SLA"
+    },
+    {
+        "id": "244",
+        "code": "4162",
+        "name": "HUYỆN TIỀN HẢI",
+        "province_code": "TBH"
+    },
+    {
+        "id": "243",
+        "code": "4155",
+        "name": "HUYỆN KIẾN XƯƠNG",
+        "province_code": "TBH"
+    },
+    {
+        "id": "361",
+        "code": "5630",
+        "name": "HUYỆN QUẾ SƠN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "384",
+        "code": "5735",
+        "name": "HUYỆN ĐỨC PHỔ",
+        "province_code": "QNI"
+    },
+    {
+        "id": "375",
+        "code": "5715",
+        "name": "HUYỆN SƠN TỊNH",
+        "province_code": "QNI"
+    },
+    {
+        "id": "631",
+        "code": "9222",
+        "name": "HUYỆN PHÚ QUỐC",
+        "province_code": "KGG"
+    },
+    {
+        "id": "550",
+        "code": "8417",
+        "name": "HUYỆN DƯƠNG MINH CHÂU",
+        "province_code": "TNH"
+    },
+    {
+        "id": "644",
+        "code": "9326",
+        "name": "HUYỆN GIỒNG TRÔM",
+        "province_code": "BTE"
+    },
+    {
+        "id": "482",
+        "code": "7130",
+        "name": "QUẬN 2",
+        "province_code": "HCM"
+    },
+    {
+        "id": "1982",
+        "code": "5611",
+        "name": "HUYỆN NÔNG SƠN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "200",
+        "code": "3537",
+        "name": "HUYỆN CAO PHONG",
+        "province_code": "HBH"
+    },
+    {
+        "id": "275",
+        "code": "4476",
+        "name": "HUYỆN CẨM THỦY",
+        "province_code": "THA"
+    },
+    {
+        "id": "184",
+        "code": "3261",
+        "name": "HUYỆN MÙ CĂNG CHẢI",
+        "province_code": "YBN"
+    },
+    {
+        "id": "58",
+        "code": "1856",
+        "name": "HUYỆN TIÊN LÃNG",
+        "province_code": "HPG"
+    },
+    {
+        "id": "281",
+        "code": "4526",
+        "name": "HUYỆN QUAN HÓA",
+        "province_code": "THA"
+    },
+    {
+        "id": "167",
+        "code": "3115",
+        "name": "HUYỆN YÊN MINH",
+        "province_code": "HGG"
+    },
+    {
+        "id": "93",
+        "code": "2353",
+        "name": "HUYỆN TÂN YÊN",
+        "province_code": "BGG"
+    },
+    {
+        "id": "601",
+        "code": "8843",
+        "name": "HUYỆN TRI TÔN",
+        "province_code": "AGG"
+    },
+    {
+        "id": "33",
+        "code": "1622",
+        "name": "HUYỆN KIM ĐỘNG",
+        "province_code": "HYN"
+    },
+    {
+        "id": "163",
+        "code": "3048",
+        "name": "HUYỆN NÀ HANG",
+        "province_code": "TQG"
+    },
+    {
+        "id": "30",
+        "code": "1613",
+        "name": "HUYỆN TIÊN LỮ ",
+        "province_code": "HYN"
+    },
+    {
+        "id": "131",
+        "code": "2746",
+        "name": "HUYỆN HÀ QUẢNG",
+        "province_code": "CBG"
+    },
+    {
+        "id": "410",
+        "code": "6024",
+        "name": "THỊ XÃ AN KHÊ",
+        "province_code": "GLI"
+    },
+    {
+        "id": "114",
+        "code": "2564",
+        "name": "THỊ XÃ SÔNG CÔNG",
+        "province_code": "TNN"
+    },
+    {
+        "id": "527",
+        "code": "8142",
+        "name": "HUYỆN ĐỊNH QUÁN",
+        "province_code": "DNI"
+    },
+    {
+        "id": "82",
+        "code": "2221",
+        "name": "HUYỆN TỪ SƠN",
+        "province_code": "BNH"
+    },
+    {
+        "id": "107",
+        "code": "2475",
+        "name": "HUYỆN ĐÌNH LẬP",
+        "province_code": "LSN"
+    },
+    {
+        "id": "417",
+        "code": "6053",
+        "name": "THỊ XÃ AYUN PA",
+        "province_code": "GLI"
+    },
+    {
+        "id": "359",
+        "code": "5623",
+        "name": "HUYỆN NÚI THÀNH",
+        "province_code": "QNM"
+    },
+    {
+        "id": "530",
+        "code": "8153",
+        "name": "HUYỆN LONG THÀNH",
+        "province_code": "DNI"
+    },
+    {
+        "id": "193",
+        "code": "3353",
+        "name": "HUYỆN BẢO YÊN",
+        "province_code": "LCI"
+    },
+    {
+        "id": "2382",
+        "code": "3841",
+        "name": "HUYỆN NẬM PỒ",
+        "province_code": "DBN"
+    },
+    {
+        "id": "2303",
+        "code": "1207",
+        "name": "Ruesey Keo",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2304",
+        "code": "1205",
+        "name": "DANGKOR",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2305",
+        "code": "1201",
+        "name": "CHAMKARMON",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2306",
+        "code": "1202",
+        "name": "DAUN PENH",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2307",
+        "code": "1206",
+        "name": "MEAN CHEY",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2322",
+        "code": "3056",
+        "name": "HUYỆN LÂM BÌNH",
+        "province_code": "TQG"
+    },
+    {
+        "id": "2482",
+        "code": "3611",
+        "name": "HUYỆN VÂN HỒ",
+        "province_code": "SLA"
+    },
+    {
+        "id": "144",
+        "code": "2834",
+        "name": "THỊ XÃ PHÚC YÊN",
+        "province_code": "VPC"
+    },
+    {
+        "id": "147",
+        "code": "2923",
+        "name": "HUYỆN PHÙ NINH",
+        "province_code": "PHO"
+    },
+    {
+        "id": "294",
+        "code": "4649",
+        "name": "HUYỆN QUỲNH LƯU",
+        "province_code": "NAN"
+    },
+    {
+        "id": "503",
+        "code": "7600",
+        "name": "QUẬN TÂN PHÚ",
+        "province_code": "HCM"
+    },
+    {
+        "id": "2522",
+        "code": "1209",
+        "name": "Posenjey",
+        "province_code": "PNP"
+    },
+    {
+        "id": "35",
+        "code": "1629",
+        "name": "HUYỆN YÊN MỸ",
+        "province_code": "HYN"
+    },
+    {
+        "id": "2542",
+        "code": "0109",
+        "name": "Malai",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2539",
+        "code": "1101",
+        "name": "Kaev Seima",
+        "province_code": "MON"
+    },
+    {
+        "id": "2540",
+        "code": "1102",
+        "name": "Kaoh Nheaek",
+        "province_code": "MON"
+    },
+    {
+        "id": "2541",
+        "code": "1103",
+        "name": "Ou Reang",
+        "province_code": "MON"
+    },
+    {
+        "id": "2622",
+        "code": "1104",
+        "name": "Pechr Chenda",
+        "province_code": "MON"
+    },
+    {
+        "id": "2623",
+        "code": "1105",
+        "name": "Saen Monourom",
+        "province_code": "MON"
+    },
+    {
+        "id": "2624",
+        "code": "2401",
+        "name": "Pailin",
+        "province_code": "PAI"
+    },
+    {
+        "id": "2625",
+        "code": "2402",
+        "name": "Sala Krau",
+        "province_code": "PAI"
+    },
+    {
+        "id": "2626",
+        "code": "1801",
+        "name": "Mittakpheap",
+        "province_code": "SIH"
+    },
+    {
+        "id": "2627",
+        "code": "1802",
+        "name": "Prey Nob",
+        "province_code": "SIH"
+    },
+    {
+        "id": "2628",
+        "code": "1803",
+        "name": "Stueng Hav",
+        "province_code": "SIH"
+    },
+    {
+        "id": "2629",
+        "code": "1301",
+        "name": "Chey Saen",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2630",
+        "code": "1302",
+        "name": "Chhaeb",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2631",
+        "code": "1303",
+        "name": "Choam Khsant",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2632",
+        "code": "1304",
+        "name": "Kuleaen",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2633",
+        "code": "1308",
+        "name": "Preah Vihear",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2634",
+        "code": "1305",
+        "name": "Rovieng",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2635",
+        "code": "1306",
+        "name": "Sangkom Thmei",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2636",
+        "code": "1307",
+        "name": "Tbaeng Mean Chey",
+        "province_code": "PRH"
+    },
+    {
+        "id": "2637",
+        "code": "1401",
+        "name": "Ba Phnum",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2638",
+        "code": "14012",
+        "name": "Kamchay Mear",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2639",
+        "code": "1411",
+        "name": "Kampong Leav",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2640",
+        "code": "1403",
+        "name": "Kampong Trabaek",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2641",
+        "code": "1404",
+        "name": "Kanhchriech",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2662",
+        "code": "1405",
+        "name": "Me Sang",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2663",
+        "code": "1406",
+        "name": "Peam Chor",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2664",
+        "code": "1407",
+        "name": "Peam Ro",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2665",
+        "code": "1408",
+        "name": "Pea Reang",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2666",
+        "code": "1409",
+        "name": "Preah Sdach",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2667",
+        "code": "1410",
+        "name": "Prey Veaeng",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2668",
+        "code": "1412",
+        "name": "Sithor Kandal",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2669",
+        "code": "1413",
+        "name": "Svay Antor",
+        "province_code": "PRE"
+    },
+    {
+        "id": "2670",
+        "code": "1501",
+        "name": "Bakan",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2671",
+        "code": "1502",
+        "name": "Kandieng",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2672",
+        "code": "1503",
+        "name": "Krakor",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2673",
+        "code": "1504",
+        "name": "Phnum Kravanh",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2674",
+        "code": "1505",
+        "name": "Pursat",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2675",
+        "code": "1506",
+        "name": "Veal Veaeng",
+        "province_code": "PUR"
+    },
+    {
+        "id": "2676",
+        "code": "1601",
+        "name": "Andoung Meas",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2677",
+        "code": "1602",
+        "name": "Ban Lung",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2678",
+        "code": "1603",
+        "name": "Bar Kaev",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2679",
+        "code": "1604",
+        "name": "Koun Mom",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2680",
+        "code": "1605",
+        "name": "Lumphat",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2681",
+        "code": "1606",
+        "name": "Ou Chum",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2682",
+        "code": "1607",
+        "name": "Ou Ya Dav",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2683",
+        "code": "1608",
+        "name": "Ta Veaeng",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2684",
+        "code": "1609",
+        "name": "Veun Sai",
+        "province_code": "ROT"
+    },
+    {
+        "id": "2685",
+        "code": "1701",
+        "name": "Angkor Chum",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2686",
+        "code": "1702",
+        "name": "Angkor Thum",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2687",
+        "code": "1703",
+        "name": "Banteay Srei",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2688",
+        "code": "1704",
+        "name": "Chi Kraeng",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2689",
+        "code": "1706",
+        "name": "Kralanh",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2690",
+        "code": "1709",
+        "name": "Prasat Bakong",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2691",
+        "code": "1707",
+        "name": "Puok",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2692",
+        "code": "1715",
+        "name": "Siem Reap",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2693",
+        "code": "1711",
+        "name": "Soutr Nikom",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2694",
+        "code": "1712",
+        "name": "Srei Snam",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2695",
+        "code": "1713",
+        "name": "Svay Leu",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2696",
+        "code": "1714",
+        "name": "Varin",
+        "province_code": "SIE"
+    },
+    {
+        "id": "2697",
+        "code": "1901",
+        "name": "Sesan",
+        "province_code": "STU"
+    },
+    {
+        "id": "2698",
+        "code": "1902",
+        "name": "Siem Bouk",
+        "province_code": "STU"
+    },
+    {
+        "id": "2699",
+        "code": "1903",
+        "name": "Siem Pang",
+        "province_code": "STU"
+    },
+    {
+        "id": "2700",
+        "code": "1904",
+        "name": "Stueng Traeng",
+        "province_code": "STU"
+    },
+    {
+        "id": "2701",
+        "code": "1905",
+        "name": "Thala Barivat",
+        "province_code": "STU"
+    },
+    {
+        "id": "2712",
+        "code": "2501",
+        "name": "Suong City",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2713",
+        "code": "2502",
+        "name": "Dambae",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2714",
+        "code": "2503",
+        "name": "Krouch Chhmar",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2715",
+        "code": "2504",
+        "name": "Memot",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2716",
+        "code": "2505",
+        "name": "Ou Reang Ov",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2717",
+        "code": "2506",
+        "name": "Ponhea Kraek",
+        "province_code": "TBO"
+    },
+    {
+        "id": "2718",
+        "code": "2507",
+        "name": "Tboung Khmum",
+        "province_code": "TBO"
+    },
+    {
+        "id": "605",
+        "code": "8917",
+        "name": "HUYỆN TAM BÌNH",
+        "province_code": "VLG"
+    },
+    {
+        "id": "138",
+        "code": "2810",
+        "name": "THÀNH PHỐ VĨNH YÊN",
+        "province_code": "VPC"
+    },
+    {
+        "id": "179",
+        "code": "3233",
+        "name": "HUYỆN TRẤN YÊN",
+        "province_code": "YBN"
+    },
+    {
+        "id": "2743",
+        "code": "4892",
+        "name": "THỊ XÃ KỲ ANH",
+        "province_code": "HTH"
+    },
+    {
+        "id": "558",
+        "code": "8510",
+        "name": "THÀNH PHỐ TÂN AN",
+        "province_code": "LAN"
+    },
+    {
+        "id": "2546",
+        "code": "0103",
+        "name": "Phnum Srok",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2547",
+        "code": "0104",
+        "name": "Preah Netr Preah",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2548",
+        "code": "0106",
+        "name": "Serei Saophoan",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2549",
+        "code": "0108",
+        "name": "Svay Chek",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2550",
+        "code": "0107",
+        "name": "Thma Puok",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2551",
+        "code": "0205",
+        "name": "Aek Phnum",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2552",
+        "code": "0201",
+        "name": "Banan",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2553",
+        "code": "0203",
+        "name": "Battambang",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2554",
+        "code": "0204",
+        "name": "Bavel",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2555",
+        "code": "0212",
+        "name": "Kamrieng",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2556",
+        "code": "0213",
+        "name": "Koas Krala",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2557",
+        "code": "0206",
+        "name": "Moung Ruessei",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2558",
+        "code": "0211",
+        "name": "Phnum Proek",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2559",
+        "code": "0207",
+        "name": "Rotanak Mondol",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2560",
+        "code": "0214",
+        "name": "Rukhak Kiri",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2561",
+        "code": "0209",
+        "name": "Samlout",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2562",
+        "code": "0210",
+        "name": "Sampov Lun",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2563",
+        "code": "0208",
+        "name": "Sangkae",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2564",
+        "code": "0202",
+        "name": "Thma Koul",
+        "province_code": "BAT"
+    },
+    {
+        "id": "2565",
+        "code": "0301",
+        "name": "Batheay",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2566",
+        "code": "0302",
+        "name": "Chamkar Leu",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2567",
+        "code": "0303",
+        "name": "Cheung Prey",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2568",
+        "code": "0305",
+        "name": "Kampong Cham",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2569",
+        "code": "0306",
+        "name": "Kampong Siem",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2570",
+        "code": "0307",
+        "name": "Kang Meas",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2571",
+        "code": "0308",
+        "name": "Kaoh Soutin",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2572",
+        "code": "0313",
+        "name": "Prey Chhor",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2573",
+        "code": "0314",
+        "name": "Srei Santhor",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2574",
+        "code": "0315",
+        "name": "Stueng Trang",
+        "province_code": "CHA"
+    },
+    {
+        "id": "2575",
+        "code": "0401",
+        "name": "Baribour",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2576",
+        "code": "0402",
+        "name": "Chol Kiri",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2577",
+        "code": "0403",
+        "name": "Kampong Chhnang",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2578",
+        "code": "0404",
+        "name": "Kampong Leaeng",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2579",
+        "code": "0405",
+        "name": "Kampong Tralach",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2580",
+        "code": "0406",
+        "name": "Rolea B'ier",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2581",
+        "code": "0407",
+        "name": "Sameakki Mean Chey",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2582",
+        "code": "0408",
+        "name": "Tuek Phos",
+        "province_code": "CHH"
+    },
+    {
+        "id": "2583",
+        "code": "0504",
+        "name": "Aoral",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2584",
+        "code": "0501",
+        "name": "Basedth",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2585",
+        "code": "0502",
+        "name": "Chbar Mon",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2586",
+        "code": "0503",
+        "name": "Kong Pisei",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2587",
+        "code": "0505",
+        "name": "Odongk",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2588",
+        "code": "0506",
+        "name": "Phnum Sruoch",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2589",
+        "code": "0507",
+        "name": "Samraong Tong",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2590",
+        "code": "0508",
+        "name": "Thpong",
+        "province_code": "SPE"
+    },
+    {
+        "id": "2591",
+        "code": "0601",
+        "name": "Baray",
+        "province_code": "THO"
+    },
+    {
+        "id": "2592",
+        "code": "0602",
+        "name": "Kampong Svay",
+        "province_code": "THO"
+    },
+    {
+        "id": "2593",
+        "code": "0604",
+        "name": "Prasat Balangk",
+        "province_code": "THO"
+    },
+    {
+        "id": "2594",
+        "code": "0605",
+        "name": "Prasat Sambour",
+        "province_code": "THO"
+    },
+    {
+        "id": "2595",
+        "code": "0606",
+        "name": "Sandan",
+        "province_code": "THO"
+    },
+    {
+        "id": "2596",
+        "code": "0607",
+        "name": "Santuk",
+        "province_code": "THO"
+    },
+    {
+        "id": "2597",
+        "code": "0608",
+        "name": "Stoung",
+        "province_code": "THO"
+    },
+    {
+        "id": "2598",
+        "code": "0603",
+        "name": "Stueng Saen",
+        "province_code": "THO"
+    },
+    {
+        "id": "2599",
+        "code": "0701",
+        "name": "Angkor Chey",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2600",
+        "code": "0702",
+        "name": "Banteay Meas",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2601",
+        "code": "0703",
+        "name": "Chhuk",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2602",
+        "code": "0704",
+        "name": "Chum Kiri",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2603",
+        "code": "0705",
+        "name": "Dang Tong",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2604",
+        "code": "0708",
+        "name": "Kampong Bay",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2605",
+        "code": "0706",
+        "name": "Kampong Trach",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2606",
+        "code": "0707",
+        "name": "Kampot",
+        "province_code": "KAM"
+    },
+    {
+        "id": "2524",
+        "code": "2301",
+        "name": "Damnak Chang'aeur",
+        "province_code": "KEP"
+    },
+    {
+        "id": "2525",
+        "code": "0901",
+        "name": "Botum Sakor",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2526",
+        "code": "0908",
+        "name": "Kampong Seila",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2527",
+        "code": "0902",
+        "name": "Kiri Sakor",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2528",
+        "code": "0903",
+        "name": "Koh Kong",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2529",
+        "code": "0905",
+        "name": "Mondol Seima",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2530",
+        "code": "0904",
+        "name": "Smach Mean Chey",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2531",
+        "code": "0906",
+        "name": "Srae Ambel",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2532",
+        "code": "0907",
+        "name": "Thma Bang",
+        "province_code": "KOH"
+    },
+    {
+        "id": "2533",
+        "code": "1001",
+        "name": "Chhloung",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2534",
+        "code": "1006",
+        "name": "Chitr Borie",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2535",
+        "code": "1002",
+        "name": "Kracheh",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2536",
+        "code": "1003",
+        "name": "Preaek Prasab",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2537",
+        "code": "1004",
+        "name": "Sambour",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2538",
+        "code": "1005",
+        "name": "Snuol",
+        "province_code": "KRA"
+    },
+    {
+        "id": "2649",
+        "code": "2001",
+        "name": "Chantrea",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2647",
+        "code": "2008",
+        "name": "Bavet",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2648",
+        "code": "2002",
+        "name": "Kampong Rou",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2650",
+        "code": "2004",
+        "name": "Romeas Haek",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2651",
+        "code": "2003",
+        "name": "Rumduol",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2652",
+        "code": "2005",
+        "name": "Svay Chrum",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2653",
+        "code": "2006",
+        "name": "Svay Rieng",
+        "province_code": "SVA"
+    },
+    {
+        "id": "2654",
+        "code": "2007",
+        "name": "Svay Teab",
+        "province_code": "SVA"
+    },
+    {
+        "id": "594",
+        "code": "8822",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "AGG"
+    },
+    {
+        "id": "602",
+        "code": "8846",
+        "name": "HUYỆN THOẠI SƠN",
+        "province_code": "AGG"
+    },
+    {
+        "id": "538",
+        "code": "8236",
+        "name": "HUYỆN DẦU TIẾNG",
+        "province_code": "BDG"
+    },
+    {
+        "id": "396",
+        "code": "5910",
+        "name": "THÀNH PHỐ QUY NHƠN",
+        "province_code": "BDH"
+    },
+    {
+        "id": "88",
+        "code": "2318",
+        "name": "HUYỆN LỤC NAM",
+        "province_code": "BGG"
+    },
+    {
+        "id": "89",
+        "code": "2325",
+        "name": "HUYỆN SƠN ĐỘNG",
+        "province_code": "BGG"
+    },
+    {
+        "id": "96",
+        "code": "2372",
+        "name": "HUYỆN YÊN DŨNG",
+        "province_code": "BGG"
+    },
+    {
+        "id": "1921",
+        "code": "8339",
+        "name": "THỊ XÃ PHƯỚC LONG",
+        "province_code": "BPC"
+    },
+    {
+        "id": "641",
+        "code": "9313",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "BTE"
+    },
+    {
+        "id": "640",
+        "code": "9310",
+        "name": "THÀNH PHỐ BẾN TRE",
+        "province_code": "BTE"
+    },
+    {
+        "id": "514",
+        "code": "8019",
+        "name": "HUYỆN BẮC BÌNH",
+        "province_code": "BTN"
+    },
+    {
+        "id": "129",
+        "code": "2734",
+        "name": "HUYỆN TRÀ LĨNH",
+        "province_code": "CBG"
+    },
+    {
+        "id": "679",
+        "code": "9736",
+        "name": "HUYỆN PHÚ TÂN",
+        "province_code": "CMU"
+    },
+    {
+        "id": "220",
+        "code": "3833",
+        "name": "HUYỆN MƯỜNG CHÀ",
+        "province_code": "DBN"
+    },
+    {
+        "id": "221",
+        "code": "3836",
+        "name": "HUYỆN TỦA CHÙA",
+        "province_code": "DBN"
+    },
+    {
+        "id": "582",
+        "code": "8714",
+        "name": "HUYỆN THÁP MƯỜI",
+        "province_code": "DTP"
+    },
+    {
+        "id": "197",
+        "code": "3522",
+        "name": "HUYỆN ĐÀ BẮC",
+        "province_code": "HBH"
+    },
+    {
+        "id": "201",
+        "code": "3539",
+        "name": "HUYỆN LẠC SƠN",
+        "province_code": "HBH"
+    },
+    {
+        "id": "194",
+        "code": "3510",
+        "name": "THỊ XÃ HÒA BÌNH",
+        "province_code": "HBH"
+    },
+    {
+        "id": "490",
+        "code": "7310",
+        "name": "HUYỆN HÓC MÔN",
+        "province_code": "HCM"
+    },
+    {
+        "id": "41",
+        "code": "1731",
+        "name": "HUYỆN KIM THÀNH ",
+        "province_code": "HDG"
+    },
+    {
+        "id": "168",
+        "code": "3121",
+        "name": "HUYỆN MÈO VẠC",
+        "province_code": "HGG"
+    },
+    {
+        "id": "175",
+        "code": "3152",
+        "name": "HUYỆN QUANG BÌNH",
+        "province_code": "HGG"
+    },
+    {
+        "id": "2442",
+        "code": "1260",
+        "name": "QUẬN NAM TỪ LIÊM",
+        "province_code": "HNI"
+    },
+    {
+        "id": "2443",
+        "code": "1280",
+        "name": "QUẬN BẮC TỪ LIÊM",
+        "province_code": "HNI"
+    },
+    {
+        "id": "2502",
+        "code": "3924",
+        "name": "HUYỆN NẬM NHÙN",
+        "province_code": "LCU"
+    },
+    {
+        "id": "2607",
+        "code": "0808",
+        "name": "Angk Snuol",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2608",
+        "code": "0801",
+        "name": "Kandal Stueng",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2609",
+        "code": "0804",
+        "name": "Kaoh Thum",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2610",
+        "code": "0803",
+        "name": "Khsach Kandal",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2611",
+        "code": "0802",
+        "name": "Kien Svay",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2612",
+        "code": "0805",
+        "name": "Leuk Daek",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2613",
+        "code": "0806",
+        "name": "Lvea Aem",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2614",
+        "code": "0807",
+        "name": "Mukh Kampul",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2615",
+        "code": "0809",
+        "name": "Ponhea Lueu",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2616",
+        "code": "0810",
+        "name": "S'ang",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2617",
+        "code": "0811",
+        "name": "Ta Khmau",
+        "province_code": "KAN"
+    },
+    {
+        "id": "2523",
+        "code": "2302",
+        "name": "Kaeb",
+        "province_code": "KEP"
+    },
+    {
+        "id": "27",
+        "code": "1580",
+        "name": "HUYỆN PHÚ XUYÊN",
+        "province_code": "HNI"
+    },
+    {
+        "id": "12",
+        "code": "1360",
+        "name": "HUYỆN ĐÔNG ANH",
+        "province_code": "HNI"
+    },
+    {
+        "id": "15",
+        "code": "1510",
+        "name": "QUẬN HÀ ĐÔNG",
+        "province_code": "HNI"
+    },
+    {
+        "id": "236",
+        "code": "4038",
+        "name": "HUYỆN BÌNH LỤC",
+        "province_code": "HNM"
+    },
+    {
+        "id": "64",
+        "code": "1875",
+        "name": "QUẬN HẢI AN",
+        "province_code": "HPG"
+    },
+    {
+        "id": "320",
+        "code": "4884",
+        "name": "HUYỆN KỲ ANH",
+        "province_code": "HTH"
+    },
+    {
+        "id": "342",
+        "code": "5353",
+        "name": "HUYỆN HƯƠNG TRÀ",
+        "province_code": "HUE"
+    },
+    {
+        "id": "636",
+        "code": "9235",
+        "name": "HUYỆN GÒ QUAO",
+        "province_code": "KGG"
+    },
+    {
+        "id": "630",
+        "code": "9220",
+        "name": "THỊ XÃ HÀ TIÊN",
+        "province_code": "KGG"
+    },
+    {
+        "id": "462",
+        "code": "6552",
+        "name": "HUYỆN CAM LÂM",
+        "province_code": "KHA"
+    },
+    {
+        "id": "393",
+        "code": "5832",
+        "name": "HUYỆN ĐẮK GLEI",
+        "province_code": "KTM"
+    },
+    {
+        "id": "564",
+        "code": "8534",
+        "name": "HUYỆN THỦ THỪA",
+        "province_code": "LAN"
+    },
+    {
+        "id": "307",
+        "code": "4749",
+        "name": "HUYỆN NAM ĐÀN",
+        "province_code": "NAN"
+    },
+    {
+        "id": "296",
+        "code": "4674",
+        "name": "HUYỆN NGHĨA ĐÀN",
+        "province_code": "NAN"
+    },
+    {
+        "id": "256",
+        "code": "4319",
+        "name": "HUYỆN HOA LƯ",
+        "province_code": "NBH"
+    },
+    {
+        "id": "259",
+        "code": "4333",
+        "name": "THỊ XÃ TAM ĐIỆP",
+        "province_code": "NBH"
+    },
+    {
+        "id": "252",
+        "code": "4271",
+        "name": "HUYỆN XUÂN TRƯỜNG",
+        "province_code": "NDH"
+    },
+    {
+        "id": "250",
+        "code": "4257",
+        "name": "HUYỆN Ý YÊN",
+        "province_code": "NDH"
+    },
+    {
+        "id": "431",
+        "code": "6234",
+        "name": "HUYỆN PHÚ HÒA",
+        "province_code": "PYN"
+    },
+    {
+        "id": "427",
+        "code": "6224",
+        "name": "HUYỆN SƠN HÒA",
+        "province_code": "PYN"
+    },
+    {
+        "id": "428",
+        "code": "6227",
+        "name": "HUYỆN SÔNG HINH",
+        "province_code": "PYN"
+    },
+    {
+        "id": "323",
+        "code": "5115",
+        "name": "HUYỆN BỐ TRẠCH",
+        "province_code": "QBH"
+    },
+    {
+        "id": "75",
+        "code": "2072",
+        "name": "HUYỆN HOÀNH BỒ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "364",
+        "code": "5638",
+        "name": "THÀNH PHỐ HỘI AN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "330",
+        "code": "5214",
+        "name": "HUYỆN GIO LINH",
+        "province_code": "QTI"
+    },
+    {
+        "id": "210",
+        "code": "3643",
+        "name": "HUYỆN BẮC YÊN",
+        "province_code": "SLA"
+    },
+    {
+        "id": "215",
+        "code": "3677",
+        "name": "HUYỆN SỐP CỘP",
+        "province_code": "SLA"
+    },
+    {
+        "id": "659",
+        "code": "9523",
+        "name": "HUYỆN MỸ TÚ",
+        "province_code": "STG"
+    },
+    {
+        "id": "575",
+        "code": "8627",
+        "name": "THỊ XÃ GÒ CÔNG",
+        "province_code": "TGG"
+    },
+    {
+        "id": "276",
+        "code": "4481",
+        "name": "HUYỆN BÁ THƯỚC",
+        "province_code": "THA"
+    },
+    {
+        "id": "272",
+        "code": "4462",
+        "name": "HUYỆN YÊN ĐỊNH",
+        "province_code": "THA"
+    },
+    {
+        "id": "555",
+        "code": "8429",
+        "name": "HUYỆN BẾN CẦU",
+        "province_code": "TNH"
+    },
+    {
+        "id": "145",
+        "code": "2836",
+        "name": "HUỴÊN TAM ĐẢO",
+        "province_code": "VPC"
+    },
+    {
+        "id": "638",
+        "code": "9241",
+        "name": "HUYỆN KIÊN HẢI",
+        "province_code": "KGG"
+    },
+    {
+        "id": "506",
+        "code": "7943",
+        "name": "HUYỆN CÔN ĐẢO",
+        "province_code": "VTU"
+    },
+    {
+        "id": "2719",
+        "code": "8741",
+        "name": "THỊ XÃ HỒNG NGỰ",
+        "province_code": "DTP"
+    },
+    {
+        "id": "2720",
+        "code": "5838",
+        "name": "HUYỆN IA H'DRAI",
+        "province_code": "KTM"
+    },
+    {
+        "id": "2721",
+        "code": "8554",
+        "name": "THỊ XÃ KIẾN TƯỜNG",
+        "province_code": "LAN"
+    },
+    {
+        "id": "2722",
+        "code": "4758",
+        "name": "THỊ XÃ HOÀNG MAI",
+        "province_code": "NAN"
+    },
+    {
+        "id": "2723",
+        "code": "8342",
+        "name": "HUYỆN PHÚ RIỀNG",
+        "province_code": "BPC"
+    },
+    {
+        "id": "554",
+        "code": "8427",
+        "name": "HUYỆN HÒA THÀNH",
+        "province_code": "TNH"
+    },
+    {
+        "id": "2745",
+        "code": "5140",
+        "name": "THỊ XÃ BA ĐỒN",
+        "province_code": "QBH"
+    },
+    {
+        "id": "2702",
+        "code": "2101",
+        "name": "Angkor Borei",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2703",
+        "code": "2102",
+        "name": "Bati",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2704",
+        "code": "2103",
+        "name": "Bourei Cholsar",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2705",
+        "code": "2108",
+        "name": "Doun Kaev",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2706",
+        "code": "2105",
+        "name": "Kaoh Andaet",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2707",
+        "code": "2104",
+        "name": "Kiri Vong",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2708",
+        "code": "2106",
+        "name": "Prey Kabbas",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2709",
+        "code": "2107",
+        "name": "Samraong",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2710",
+        "code": "2109",
+        "name": "Tram Kak",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2711",
+        "code": "2110",
+        "name": "Treang",
+        "province_code": "TAK"
+    },
+    {
+        "id": "2725",
+        "code": "9130",
+        "name": "THỊ XÃ LONG MỸ",
+        "province_code": "HUG"
+    },
+    {
+        "id": "308",
+        "code": "4757",
+        "name": "HUYỆN THANH CHƯƠNG",
+        "province_code": "NAN"
+    },
+    {
+        "id": "278",
+        "code": "4497",
+        "name": "HUYỆN THỌ XUÂN",
+        "province_code": "THA"
+    },
+    {
+        "id": "313",
+        "code": "4837",
+        "name": "THỊ XÃ HỒNG LĨNH",
+        "province_code": "HTH"
+    },
+    {
+        "id": "368",
+        "code": "5653",
+        "name": "HUYỆN NAM TRÀ MY",
+        "province_code": "QNM"
+    },
+    {
+        "id": "199",
+        "code": "3533",
+        "name": "HUYỆN MAI CHÂU",
+        "province_code": "HBH"
+    },
+    {
+        "id": "219",
+        "code": "3825",
+        "name": "HUYỆN TUẦN GIÁO",
+        "province_code": "DBN"
+    },
+    {
+        "id": "603",
+        "code": "8910",
+        "name": "THÀNH PHỐ VĨNH LONG",
+        "province_code": "VLG"
+    },
+    {
+        "id": "124",
+        "code": "2643",
+        "name": "HUYỆN PẮC NẶM",
+        "province_code": "BKN"
+    },
+    {
+        "id": "612",
+        "code": "9028",
+        "name": "QUẬN BÌNH THỦY",
+        "province_code": "CTO"
+    },
+    {
+        "id": "130",
+        "code": "2738",
+        "name": "HUYỆN HÒA AN",
+        "province_code": "CBG"
+    },
+    {
+        "id": "534",
+        "code": "8210",
+        "name": "THỊ XÃ THỦ DẦU MỘT",
+        "province_code": "BDG"
+    },
+    {
+        "id": "126",
+        "code": "2715",
+        "name": "HUYỆN QUẢNG UYÊN",
+        "province_code": "CBG"
+    },
+    {
+        "id": "28",
+        "code": "1585",
+        "name": "HUYỆN THƯỜNG TÍN",
+        "province_code": "HNI"
+    },
+    {
+        "id": "672",
+        "code": "9710",
+        "name": "THÀNH PHỐ CÀ MAU",
+        "province_code": "CMU"
+    },
+    {
+        "id": "102",
+        "code": "2445",
+        "name": "HUYỆN BÌNH GIA",
+        "province_code": "LSN"
+    },
+    {
+        "id": "399",
+        "code": "5924",
+        "name": "HUYỆN PHÙ CÁT",
+        "province_code": "BDH"
+    },
+    {
+        "id": "513",
+        "code": "8010",
+        "name": "THÀNH PHỐ PHAN THIẾT",
+        "province_code": "BTN"
+    },
+    {
+        "id": "339",
+        "code": "5310",
+        "name": "THÀNH PHỐ HUẾ",
+        "province_code": "HUE"
+    },
+    {
+        "id": "269",
+        "code": "4449",
+        "name": "THỊ XÃ BỈM SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "142",
+        "code": "2823",
+        "name": "HUYỆN VĨNH TƯỜNG",
+        "province_code": "VPC"
+    },
+    {
+        "id": "586",
+        "code": "8724",
+        "name": "HUYỆN THANH BÌNH",
+        "province_code": "DTP"
+    },
+    {
+        "id": "298",
+        "code": "4690",
+        "name": "HUYỆN QUỲ HỢP",
+        "province_code": "NAN"
+    },
+    {
+        "id": "607",
+        "code": "8925",
+        "name": "HUYỆN TRÀ ÔN",
+        "province_code": "VLG"
+    },
+    {
+        "id": "141",
+        "code": "2818",
+        "name": "HUYỆN LẬP THẠCH",
+        "province_code": "VPC"
+    },
+    {
+        "id": "447",
+        "code": "6413",
+        "name": "HUYỆN ĐẮK RLẤP",
+        "province_code": "DKG"
+    },
+    {
+        "id": "579",
+        "code": "8641",
+        "name": "HUYỆN CAI LẬY",
+        "province_code": "TGG"
+    },
+    {
+        "id": "164",
+        "code": "3055",
+        "name": "HUYỆN HÀM YÊN",
+        "province_code": "TQG"
+    },
+    {
+        "id": "673",
+        "code": "9718",
+        "name": "HUYỆN THỚI BÌNH",
+        "province_code": "CMU"
+    },
+    {
+        "id": "97",
+        "code": "2410",
+        "name": "THÀNH PHỐ LẠNG SƠN",
+        "province_code": "LSN"
+    },
+    {
+        "id": "507",
+        "code": "7944",
+        "name": "HUYỆN LONG ĐIỀN",
+        "province_code": "VTU"
+    },
+    {
+        "id": "456",
+        "code": "6535",
+        "name": "HUYỆN VẠN NINH",
+        "province_code": "KHA"
+    },
+    {
+        "id": "225",
+        "code": "3910",
+        "name": "THỊ XÃ LAI CHÂU",
+        "province_code": "LCU"
+    },
+    {
+        "id": "2122",
+        "code": "8340",
+        "name": "HUYỆN BÙ GIA MẬP",
+        "province_code": "BPC"
+    },
+    {
+        "id": "362",
+        "code": "5634",
+        "name": "HUYỆN HIỆP ĐỨC",
+        "province_code": "QNM"
+    },
+    {
+        "id": "176",
+        "code": "3210",
+        "name": "THÀNH PHỐ YÊN BÁI",
+        "province_code": "YBN"
+    },
+    {
+        "id": "2543",
+        "code": "0102",
+        "name": "Mongkol Borei",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2544",
+        "code": "0105",
+        "name": "Ou Chrov",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2545",
+        "code": "0110",
+        "name": "Paoy Paet",
+        "province_code": "BAN"
+    },
+    {
+        "id": "2621",
+        "code": "2201",
+        "name": "Anlong Veaeng",
+        "province_code": "ODD"
+    },
+    {
+        "id": "2642",
+        "code": "2202",
+        "name": "Banteay Ampil",
+        "province_code": "ODD"
+    },
+    {
+        "id": "2643",
+        "code": "2203",
+        "name": "Chong Kal",
+        "province_code": "ODD"
+    },
+    {
+        "id": "2644",
+        "code": "2204",
+        "name": "Samraong",
+        "province_code": "ODD"
+    },
+    {
+        "id": "2645",
+        "code": "2205",
+        "name": "Trapeang Prasat",
+        "province_code": "ODD"
+    },
+    {
+        "id": "667",
+        "code": "9621",
+        "name": "HUYỆN PHƯỚC LONG",
+        "province_code": "BLU"
+    },
+    {
+        "id": "445",
+        "code": "6380",
+        "name": "HUYỆN CƯ KUIN",
+        "province_code": "DLK"
+    },
+    {
+        "id": "433",
+        "code": "6327",
+        "name": "HUYỆN KRÔNG PẮK",
+        "province_code": "DLK"
+    },
+    {
+        "id": "352",
+        "code": "5564",
+        "name": "HUYỆN HÒA VANG",
+        "province_code": "DNG"
+    },
+    {
+        "id": "524",
+        "code": "8132",
+        "name": "THỊ XÃ LONG KHÁNH",
+        "province_code": "DNI"
+    },
+    {
+        "id": "583",
+        "code": "8717",
+        "name": "HUYỆN TAM NÔNG",
+        "province_code": "DTP"
+    },
+    {
+        "id": "29",
+        "code": "1610",
+        "name": "THỊ XÃ HƯNG YÊN",
+        "province_code": "HYN"
+    },
+    {
+        "id": "633",
+        "code": "9227",
+        "name": "HUYỆN AN MINH",
+        "province_code": "KGG"
+    },
+    {
+        "id": "191",
+        "code": "3341",
+        "name": "HUYỆN BẢO THẮNG",
+        "province_code": "LCI"
+    },
+    {
+        "id": "470",
+        "code": "6725",
+        "name": "HUYỆN ĐƠN DƯƠNG",
+        "province_code": "LDG"
+    },
+    {
+        "id": "473",
+        "code": "6733",
+        "name": "HUYỆN ĐỨC TRỌNG",
+        "province_code": "LDG"
+    },
+    {
+        "id": "100",
+        "code": "2431",
+        "name": "HUYỆN TRÀNG ĐỊNH",
+        "province_code": "LSN"
+    },
+    {
+        "id": "383",
+        "code": "5732",
+        "name": "HUYỆN BA TƠ",
+        "province_code": "QNI"
+    },
+    {
+        "id": "380",
+        "code": "5728",
+        "name": "HUYỆN SƠN TÂY",
+        "province_code": "QNI"
+    },
+    {
+        "id": "360",
+        "code": "5627",
+        "name": "HUYỆN DUY XUYÊN",
+        "province_code": "QNM"
+    },
+    {
+        "id": "662",
+        "code": "9535",
+        "name": "HUYỆN VĨNH CHÂU",
+        "province_code": "STG"
+    },
+    {
+        "id": "572",
+        "code": "8610",
+        "name": "THÀNH PHỐ MỸ THO",
+        "province_code": "TGG"
+    },
+    {
+        "id": "271",
+        "code": "4456",
+        "name": "HUYỆN THIỆU HÓA",
+        "province_code": "THA"
+    },
+    {
+        "id": "264",
+        "code": "4420",
+        "name": "THỊ XÃ SẦM SƠN",
+        "province_code": "THA"
+    },
+    {
+        "id": "609",
+        "code": "8934",
+        "name": "HUYỆN MANG THÍT",
+        "province_code": "VLG"
+    },
+    {
+        "id": "182",
+        "code": "3256",
+        "name": "THỊ XÃ NGHĨA LỘ",
+        "province_code": "YBN"
+    },
+    {
+        "id": "284",
+        "code": "4534",
+        "name": "HUYỆN THƯỜNG XUÂN",
+        "province_code": "THA"
+    },
+    {
+        "id": "287",
+        "code": "4551",
+        "name": "HUYỆN NHƯ XUÂN",
+        "province_code": "THA"
+    },
+    {
+        "id": "165",
+        "code": "3110",
+        "name": "THỊ XÃ HÀ GIANG",
+        "province_code": "HGG"
+    },
+    {
+        "id": "169",
+        "code": "3126",
+        "name": "HUYỆN ĐỒNG VĂN",
+        "province_code": "HGG"
+    },
+    {
+        "id": "498",
+        "code": "7510",
+        "name": "QUẬN 8",
+        "province_code": "HCM"
+    },
+    {
+        "id": "318",
+        "code": "4869",
+        "name": "HUYỆN HƯƠNG KHÊ",
+        "province_code": "HTH"
+    },
+    {
+        "id": "319",
+        "code": "4876",
+        "name": "HUYỆN CẨM XUYÊN",
+        "province_code": "HTH"
+    },
+    {
+        "id": "148",
+        "code": "2929",
+        "name": "HUYỆN LÂM THAO",
+        "province_code": "PHO"
+    },
+    {
+        "id": "38",
+        "code": "1638",
+        "name": "HUYỆN VĂN GIANG",
+        "province_code": "HYN"
+    },
+    {
+        "id": "132",
+        "code": "2752",
+        "name": "HUYỆN THÔNG NÔNG",
+        "province_code": "CBG"
+    },
+    {
+        "id": "666",
+        "code": "9615",
+        "name": "HUYỆN VĨNH LỢI",
+        "province_code": "BLU"
+    },
+    {
+        "id": "36",
+        "code": "1632",
+        "name": "HUYỆN MỸ HÀO",
+        "province_code": "HYN"
+    },
+    {
+        "id": "341",
+        "code": "5349",
+        "name": "HUYỆN PHONG ĐIỀN",
+        "province_code": "HUE"
+    },
+    {
+        "id": "162",
+        "code": "3038",
+        "name": "HUYỆN CHIÊM HÓA",
+        "province_code": "TQG"
+    },
+    {
+        "id": "113",
+        "code": "2553",
+        "name": " HUYỆN ĐẠI TỪ",
+        "province_code": "TNN"
+    },
+    {
+        "id": "231",
+        "code": "4010",
+        "name": "THÀNH PHỐ PHỦ LÝ",
+        "province_code": "HNM"
+    },
+    {
+        "id": "604",
+        "code": "8913",
+        "name": "HUYỆN LONG HỒ",
+        "province_code": "VLG"
+    },
+    {
+        "id": "79",
+        "code": "2210",
+        "name": "THÀNH PHỐ BẮC NINH",
+        "province_code": "BNH"
+    },
+    {
+        "id": "85",
+        "code": "2232",
+        "name": "HUYỆN GIA BÌNH",
+        "province_code": "BNH"
+    },
+    {
+        "id": "412",
+        "code": "6030",
+        "name": "HUYỆN CHƯ PĂH",
+        "province_code": "GLI"
+    },
+    {
+        "id": "1821",
+        "code": "3940",
+        "name": "HUYỆN TÂN UYÊN",
+        "province_code": "LCU"
+    },
+    {
+        "id": "531",
+        "code": "8158",
+        "name": "HUYỆN NHƠN TRẠCH",
+        "province_code": "DNI"
+    },
+    {
+        "id": "83",
+        "code": "2224",
+        "name": "HUYỆN THUẬN THÀNH",
+        "province_code": "BNH"
+    },
+    {
+        "id": "523",
+        "code": "8110",
+        "name": "THÀNH PHỐ BIÊN HÒA",
+        "province_code": "DNI"
+    },
+    {
+        "id": "106",
+        "code": "2468",
+        "name": "HUYỆN LỘC BÌNH",
+        "province_code": "LSN"
+    },
+    {
+        "id": "192",
+        "code": "3347",
+        "name": "HUYỆN VĂN BÀN",
+        "province_code": "LCI"
+    },
+    {
+        "id": "561",
+        "code": "8523",
+        "name": "HUYỆN BẾN LỨC",
+        "province_code": "LAN"
+    },
+    {
+        "id": "568",
+        "code": "8546",
+        "name": "HUYỆN TÂN THẠNH",
+        "province_code": "LAN"
+    },
+    {
+        "id": "567",
+        "code": "8544",
+        "name": "HUYỆN THẠNH HÓA",
+        "province_code": "LAN"
+    },
+    {
+        "id": "569",
+        "code": "8548",
+        "name": "HUYỆN MỘC HÓA",
+        "province_code": "LAN"
+    },
+    {
+        "id": "625",
+        "code": "9129",
+        "name": "THỊ XÃ NGÃ BẢY",
+        "province_code": "HUG"
+    },
+    {
+        "id": "565",
+        "code": "8537",
+        "name": "HUYỆN ĐỨC HÒA",
+        "province_code": "LAN"
+    },
+    {
+        "id": "577",
+        "code": "8634",
+        "name": "HUYỆN CHÂU THÀNH",
+        "province_code": "TGG"
+    },
+    {
+        "id": "358",
+        "code": "5620",
+        "name": "HUYỆN TIÊN PHƯỚC",
+        "province_code": "QNM"
+    },
+    {
+        "id": "43",
+        "code": "1738",
+        "name": "HUYỆN KINH MÔN",
+        "province_code": "HDG"
+    },
+    {
+        "id": "44",
+        "code": "1742",
+        "name": "HUYỆN CHÍ LINH",
+        "province_code": "HDG"
+    },
+    {
+        "id": "499",
+        "code": "7540",
+        "name": "QUẬN 4",
+        "province_code": "HCM"
+    },
+    {
+        "id": "511",
+        "code": "7953",
+        "name": "HUYỆN CHÂU ĐỨC",
+        "province_code": "VTU"
+    },
+    {
+        "id": "74",
+        "code": "2068",
+        "name": "THỊ XÃ MÓNG CÁI",
+        "province_code": "QNH"
+    },
+    {
+        "id": "421",
+        "code": "6066",
+        "name": "HUYỆN IA PA",
+        "province_code": "GLI"
+    },
+    {
+        "id": "1841",
+        "code": "2838",
+        "name": "HUYỆN SÔNG LÔ",
+        "province_code": "VPC"
+    },
+    {
+        "id": "663",
+        "code": "9538",
+        "name": "HUYỆN CÙ LAO DUNG",
+        "province_code": "STG"
+    },
+    {
+        "id": "435",
+        "code": "6339",
+        "name": "HUYỆN M'ĐRẮK",
+        "province_code": "DLK"
+    },
+    {
+        "id": "480",
+        "code": "6760",
+        "name": "HUYỆN ĐAM RÔNG",
+        "province_code": "LDG"
+    },
+    {
+        "id": "340",
+        "code": "5346",
+        "name": "HUYỆN QUẢNG ĐIỀN",
+        "province_code": "HUE"
+    },
+    {
+        "id": "675",
+        "code": "9723",
+        "name": "HUYỆN TRẦN VĂN THỜI",
+        "province_code": "CMU"
+    },
+    {
+        "id": "616",
+        "code": "9044",
+        "name": "HUYỆN PHONG ĐIỀN",
+        "province_code": "CTO"
+    },
+    {
+        "id": "374",
+        "code": "5714",
+        "name": "HUYỆN LÝ SƠN",
+        "province_code": "QNI"
+    },
+    {
+        "id": "403",
+        "code": "5938",
+        "name": "HUYỆN AN LÃO",
+        "province_code": "BDH"
+    },
+    {
+        "id": "351",
+        "code": "5557",
+        "name": "QUẬN LIÊN CHIỂU",
+        "province_code": "DNG"
+    },
+    {
+        "id": "22",
+        "code": "1557",
+        "name": "HUYỆN QUỐC OAI",
+        "province_code": "HNI"
+    },
+    {
+        "id": "404",
+        "code": "5940",
+        "name": "HUYỆN VĨNH THẠNH",
+        "province_code": "BDH"
+    },
+    {
+        "id": "643",
+        "code": "9320",
+        "name": "HUYỆN MỎ CÀY BẮC",
+        "province_code": "BTE"
+    },
+    {
+        "id": "185",
+        "code": "3310",
+        "name": "HUYỆN BẮC HÀ",
+        "province_code": "LCI"
+    },
+    {
+        "id": "397",
+        "code": "5917",
+        "name": "HUYỆN TUY PHƯỚC",
+        "province_code": "BDH"
+    },
+    {
+        "id": "2143",
+        "code": "8341",
+        "name": "HUYỆN HỚN QUẢN",
+        "province_code": "BPC"
+    },
+    {
+        "id": "546",
+        "code": "8329",
+        "name": "THỊ XÃ BÌNH LONG",
+        "province_code": "BPC"
+    },
+    {
+        "id": "266",
+        "code": "4431",
+        "name": "HUYỆN HẬU LỘC",
+        "province_code": "THA"
+    },
+    {
+        "id": "202",
+        "code": "3548",
+        "name": "HUYỆN YÊN THỦY",
+        "province_code": "HBH"
+    },
+    {
+        "id": "585",
+        "code": "8721",
+        "name": "HUYỆN HỒNG NGỰ",
+        "province_code": "DTP"
+    },
+    {
+        "id": "84",
+        "code": "2228",
+        "name": "HUYỆN QUẾ VÕ",
+        "province_code": "BNH"
+    },
+    {
+        "id": "621",
+        "code": "9118",
+        "name": "HUYỆN PHỤNG HIỆP",
+        "province_code": "HUG"
+    },
+    {
+        "id": "301",
+        "code": "4714",
+        "name": "HUYỆN ĐÔ LƯƠNG",
+        "province_code": "NAN"
+    },
+    {
+        "id": "46",
+        "code": "1751",
+        "name": "HUYỆN BÌNH GIANG",
+        "province_code": "HDG"
+    },
+    {
+        "id": "2302",
+        "code": "1208",
+        "name": "SENSOK",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2282",
+        "code": "1203",
+        "name": "Prampi MAKARA",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2403",
+        "code": "8248",
+        "name": "HUYỆN BÀU BÀNG",
+        "province_code": "BDG"
+    },
+    {
+        "id": "2283",
+        "code": "1204",
+        "name": "TOUL KORK",
+        "province_code": "PNP"
+    },
+    {
+        "id": "2402",
+        "code": "8247",
+        "name": "HUYỆN BẮC TÂN UYÊN",
+        "province_code": "BDG"
+    },
+    {
+        "id": "2362",
+        "code": "9511",
+        "name": "HUYỆN TRẦN ĐỀ",
+        "province_code": "STG"
+    },
+    {
+        "id": "73",
+        "code": "2065",
+        "name": "HUYỆN HẢI HÀ",
+        "province_code": "QNH"
+    },
+    {
+        "id": "429",
+        "code": "6230",
+        "name": "HUYỆN ĐÔNG HÒA",
+        "province_code": "PYN"
+    },
+    {
+        "id": "237",
+        "code": "4110",
+        "name": "THÀNH PHỐ THÁI BÌNH",
+        "province_code": "TBH"
+    },
+    {
+        "id": "392",
+        "code": "5830",
+        "name": "HUYỆN NGỌC HỒI",
+        "province_code": "KTM"
+    },
+    {
+        "id": "493",
+        "code": "7380",
+        "name": "HUYỆN BÌNH CHÁNH",
+        "province_code": "HCM"
+    },
+    {
+        "id": "485",
+        "code": "7200",
+        "name": "QUẬN THỦ ĐỨC",
+        "province_code": "HCM"
+    },
+    {
+        "id": "253",
+        "code": "4278",
+        "name": "HUYỆN GIAO THỦY",
+        "province_code": "NDH"
+    },
+    {
+        "id": "505",
+        "code": "7910",
+        "name": "THÀNH PHỐ VŨNG TÀU",
+        "province_code": "VTU"
+    }
+]

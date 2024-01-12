@@ -1,0 +1,442 @@
+[
+    {
+        "code": "PNP",
+        "name": "Phnompenh",
+        "country_code": "KH"
+    },
+    {
+        "code": "CHA",
+        "name": "Kampong Cham",
+        "country_code": "KH"
+    },
+    {
+        "code": "CHH",
+        "name": "Kampong Chhnang",
+        "country_code": "KH"
+    },
+    {
+        "code": "KAM",
+        "name": "Kampot",
+        "country_code": "KH"
+    },
+    {
+        "code": "KRA",
+        "name": "Kratié",
+        "country_code": "KH"
+    },
+    {
+        "code": "TAK",
+        "name": "Takeo",
+        "country_code": "KH"
+    },
+    {
+        "code": "ODD",
+        "name": "Otdar Meanchey",
+        "country_code": "KH"
+    },
+    {
+        "code": "PRE",
+        "name": "Prey Veng",
+        "country_code": "KH"
+    },
+    {
+        "code": "SPE",
+        "name": "Kampong Speu",
+        "country_code": "KH"
+    },
+    {
+        "code": "PRH",
+        "name": "Preah Vihear",
+        "country_code": "KH"
+    },
+    {
+        "code": "PUR",
+        "name": "Pursat",
+        "country_code": "KH"
+    },
+    {
+        "code": "SIH",
+        "name": "Preah Sihanouk",
+        "country_code": "KH"
+    },
+    {
+        "code": "THO",
+        "name": "Kampong Thom",
+        "country_code": "KH"
+    },
+    {
+        "code": "STU",
+        "name": "Stung Treng",
+        "country_code": "KH"
+    },
+    {
+        "code": "KOH",
+        "name": "Koh Kong",
+        "country_code": "KH"
+    },
+    {
+        "code": "PAI",
+        "name": "Pailin",
+        "country_code": "KH"
+    },
+    {
+        "code": "BAT",
+        "name": "Battambang",
+        "country_code": "KH"
+    },
+    {
+        "code": "SIE",
+        "name": "Siem Reap",
+        "country_code": "KH"
+    },
+    {
+        "code": "KAN",
+        "name": "Kandal",
+        "country_code": "KH"
+    },
+    {
+        "code": "ROT",
+        "name": "Ratanak Kiri",
+        "country_code": "KH"
+    },
+    {
+        "code": "MON",
+        "name": "Mondol Kiri",
+        "country_code": "KH"
+    },
+    {
+        "code": "TGG",
+        "name": "Tiền Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "HUG",
+        "name": "Hậu Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "DKG",
+        "name": "Đăk Nông",
+        "country_code": "VN"
+    },
+    {
+        "code": "HNI",
+        "name": "Hà Nội",
+        "country_code": "VN"
+    },
+    {
+        "code": "HPG",
+        "name": "Hải Phòng",
+        "country_code": "VN"
+    },
+    {
+        "code": "VPC",
+        "name": "Vĩnh Phúc",
+        "country_code": "VN"
+    },
+    {
+        "code": "BNH",
+        "name": "Bắc Ninh",
+        "country_code": "VN"
+    },
+    {
+        "code": "HDG",
+        "name": "Hải Dương",
+        "country_code": "VN"
+    },
+    {
+        "code": "HYN",
+        "name": "Hưng Yên",
+        "country_code": "VN"
+    },
+    {
+        "code": "HNM",
+        "name": "Hà Nam",
+        "country_code": "VN"
+    },
+    {
+        "code": "NDH",
+        "name": "Nam Ðịnh",
+        "country_code": "VN"
+    },
+    {
+        "code": "TBH",
+        "name": "Thái Bình",
+        "country_code": "VN"
+    },
+    {
+        "code": "NBH",
+        "name": "Ninh Bình",
+        "country_code": "VN"
+    },
+    {
+        "code": "HGG",
+        "name": "Hà Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "CBG",
+        "name": "Cao Bằng",
+        "country_code": "VN"
+    },
+    {
+        "code": "LCI",
+        "name": "Lào Cai",
+        "country_code": "VN"
+    },
+    {
+        "code": "BKN",
+        "name": "Bắc Kạn",
+        "country_code": "VN"
+    },
+    {
+        "code": "LSN",
+        "name": "Lạng Sơn",
+        "country_code": "VN"
+    },
+    {
+        "code": "TQG",
+        "name": "Tuyên Quang",
+        "country_code": "VN"
+    },
+    {
+        "code": "YBN",
+        "name": "Yên Bái",
+        "country_code": "VN"
+    },
+    {
+        "code": "TNN",
+        "name": "Thái Nguyên",
+        "country_code": "VN"
+    },
+    {
+        "code": "PHO",
+        "name": "Phú Thọ",
+        "country_code": "VN"
+    },
+    {
+        "code": "BGG",
+        "name": "Bắc Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "QNH",
+        "name": "Quảng Ninh",
+        "country_code": "VN"
+    },
+    {
+        "code": "LCU",
+        "name": "Lai Châu",
+        "country_code": "VN"
+    },
+    {
+        "code": "SLA",
+        "name": "Sơn La",
+        "country_code": "VN"
+    },
+    {
+        "code": "HBH",
+        "name": "Hòa Bình",
+        "country_code": "VN"
+    },
+    {
+        "code": "THA",
+        "name": "Thanh Hóa",
+        "country_code": "VN"
+    },
+    {
+        "code": "NAN",
+        "name": "Nghệ An",
+        "country_code": "VN"
+    },
+    {
+        "code": "HTH",
+        "name": "Hà Tĩnh",
+        "country_code": "VN"
+    },
+    {
+        "code": "QBH",
+        "name": "Quảng Bình",
+        "country_code": "VN"
+    },
+    {
+        "code": "QTI",
+        "name": "Quảng Trị",
+        "country_code": "VN"
+    },
+    {
+        "code": "HUE",
+        "name": "Thừa Thiên - Huế",
+        "country_code": "VN"
+    },
+    {
+        "code": "DNG",
+        "name": "Đà Nẵng",
+        "country_code": "VN"
+    },
+    {
+        "code": "QNM",
+        "name": "Quảng Nam",
+        "country_code": "VN"
+    },
+    {
+        "code": "QNI",
+        "name": "Quảng Ngãi",
+        "country_code": "VN"
+    },
+    {
+        "code": "BDH",
+        "name": "Bình Ðịnh",
+        "country_code": "VN"
+    },
+    {
+        "code": "PYN",
+        "name": "Phú Yên",
+        "country_code": "VN"
+    },
+    {
+        "code": "KHA",
+        "name": "Khánh Hòa",
+        "country_code": "VN"
+    },
+    {
+        "code": "KTM",
+        "name": "Kon Tum",
+        "country_code": "VN"
+    },
+    {
+        "code": "GLI",
+        "name": "Gia Lai",
+        "country_code": "VN"
+    },
+    {
+        "code": "DLK",
+        "name": "Daklak",
+        "country_code": "VN"
+    },
+    {
+        "code": "LDG",
+        "name": "Lâm Ðồng",
+        "country_code": "VN"
+    },
+    {
+        "code": "HCM",
+        "name": "Hồ Chí Minh",
+        "country_code": "VN"
+    },
+    {
+        "code": "NTN",
+        "name": "Ninh Thuận",
+        "country_code": "VN"
+    },
+    {
+        "code": "BPC",
+        "name": "Bình Phước",
+        "country_code": "VN"
+    },
+    {
+        "code": "TNH",
+        "name": "Tây Ninh",
+        "country_code": "VN"
+    },
+    {
+        "code": "BDG",
+        "name": "Bình Dương",
+        "country_code": "VN"
+    },
+    {
+        "code": "DNI",
+        "name": "Đồng Nai",
+        "country_code": "VN"
+    },
+    {
+        "code": "BTN",
+        "name": "Bình Thuận",
+        "country_code": "VN"
+    },
+    {
+        "code": "VTU",
+        "name": "Bà Rịa - Vũng Tầu",
+        "country_code": "VN"
+    },
+    {
+        "code": "LAN",
+        "name": "Long An",
+        "country_code": "VN"
+    },
+    {
+        "code": "DTP",
+        "name": "Đồng Tháp",
+        "country_code": "VN"
+    },
+    {
+        "code": "AGG",
+        "name": "An Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "VLG",
+        "name": "Vĩnh Long",
+        "country_code": "VN"
+    },
+    {
+        "code": "BTE",
+        "name": "Bến Tre",
+        "country_code": "VN"
+    },
+    {
+        "code": "KGG",
+        "name": "Kiên Giang",
+        "country_code": "VN"
+    },
+    {
+        "code": "CTO",
+        "name": "Cần Thơ",
+        "country_code": "VN"
+    },
+    {
+        "code": "TVH",
+        "name": "Trà Vinh",
+        "country_code": "VN"
+    },
+    {
+        "code": "STG",
+        "name": "Sóc Trăng",
+        "country_code": "VN"
+    },
+    {
+        "code": "BLU",
+        "name": "Bạc Liêu",
+        "country_code": "VN"
+    },
+    {
+        "code": "CMU",
+        "name": "Cà Mau",
+        "country_code": "VN"
+    },
+    {
+        "code": "DBN",
+        "name": "Điện Biên",
+        "country_code": "VN"
+    },
+    {
+        "code": "SVA",
+        "name": "Svay Rieng",
+        "country_code": "KH"
+    },
+    {
+        "code": "BAN",
+        "name": "Banteay Meanchey",
+        "country_code": "KH"
+    },
+    {
+        "code": "TBO",
+        "name": "Tbong Khmum",
+        "country_code": "KH"
+    },
+    {
+        "code": "KEP",
+        "name": "Kep\r\n",
+        "country_code": "KH"
+    }
+]
